@@ -1,0 +1,834 @@
+{
+  "titulo": "REGLAMENTO INTERNO DE TRABAJO",
+  "empresa": "SUPERCAN CLÍNICA VETERINARIA",
+  "empleador": "Edison Arturo Fuelpaz Valencia",
+  "nit": "52688130",
+  "ubicacion": "Pasto, Nariño",
+  "capitulos": [
+    {
+      "titulo": "CAPÍTULO I. DISPOSICIONES GENERALES",
+      "articulos": [
+        {
+          "numero": "1",
+          "titulo": "Objeto del Reglamento Interno de Trabajo",
+          "contenido": "REGLAMENTO INTERNO DE TRABAJO – SUPERCAN CLÍNICA VETERINARIA\nEmpleador: Edison Arturo Fuelpaz Valencia, persona natural, identificada con NIT 52688130, quien opera bajo el nombre comercial SUPERCAN CLÍNICA VETERINARIA, con domicilio principal en Pasto, Nariño.\nEl presente Reglamento Interno de Trabajo (RIT) tiene por objeto establecer las normas generales que regulan las relaciones laborales dentro de SUPERCAN CLÍNICA VETERINARIA, determinando condiciones de orden, disciplina, convivencia, prevención de riesgos, y pautas mínimas de comportamiento y cumplimiento, obligatorias para empleador y trabajadores, sin perjuicio de las disposiciones legales aplicables.\nSoporte normativo: Código Sustantivo del Trabajo (CST), art. 104 (definición) y art. 108."
+        },
+        {
+          "numero": "2",
+          "titulo": "Identificación del empleador y domicilio",
+          "contenido": "Para todos los efectos del presente RIT, el empleador es Edison Arturo Fuelpaz Valencia (persona natural), quien desarrolla su actividad económica como clínica veterinaria bajo el nombre comercial SUPERCAN CLÍNICA VETERINARIA, con domicilio principal en Pasto (Nariño) y dirección de operación según registro tributario vigente.\nSoporte normativo: CST, art. 108 (exige indicar identificación del empleador y lugares de trabajo/establecimientos)."
+        },
+        {
+          "numero": "3",
+          "titulo": "Ámbito de aplicación subjetivo",
+          "contenido": "Este RIT se aplica a todas las personas vinculadas mediante contrato de trabajo con SUPERCAN CLÍNICA VETERINARIA (a término indefinido, fijo, por obra o labor, u otras modalidades legales), y hace parte integrante del contrato en lo pertinente.\nParágrafo 1. Contratistas/OPS y terceros. Las personas vinculadas por contratos civiles o comerciales (p. ej., prestación de servicios) no se rigen por este RIT como contrato de trabajo; sin embargo, deberán cumplir las normas de seguridad, bioseguridad, confidencialidad, protección de datos y convivencia exigibles en la sede, en lo que corresponda al ingreso/ejecución del servicio.\nParágrafo 2. Personal en misión o temporal. En caso de existir, SUPERCAN exigirá el cumplimiento de normas de seguridad y convivencia en el sitio de trabajo, y adoptará medidas de coordinación SST conforme al marco del SGRL.\nSoporte normativo: CST, art. 107 (el reglamento hace parte del contrato); Decreto 1072 de 2015 (DUR Trabajo), reglas de inclusión/gestión SST frente a personal en misión y coordinación con terceros."
+        },
+        {
+          "numero": "4",
+          "titulo": "Ámbito de aplicación territorial",
+          "contenido": "Las disposiciones de este RIT se aplican en el centro de trabajo/establecimiento de SUPERCAN CLÍNICA VETERINARIA en Pasto, y en cualquier lugar donde, por razón del servicio, el trabajador deba ejecutar funciones bajo subordinación del empleador (p. ej., diligencias, visitas, traslados operativos autorizados).\nSoporte normativo: CST, art. 108 (contenido del reglamento) y reglas generales de ejecución del contrato bajo subordinación."
+        },
+        {
+          "numero": "5",
+          "titulo": "Definiciones básicas",
+          "contenido": "Para efectos de este RIT se entenderá por:\na) Empleador: Edison Arturo Fuelpaz Valencia (SUPERCAN CLÍNICA VETERINARIA).\nb) Trabajador: persona natural vinculada mediante contrato de trabajo.\nc) Centro de trabajo: instalaciones físicas donde se presta el servicio veterinario y administrativo.\nd) SST / SG-SST: Seguridad y Salud en el Trabajo y su sistema de gestión, conforme a normativa vigente.\ne) Acoso laboral: conducta persistente y demostrable que busca infundir miedo, intimidación, terror o desmotivación, o inducir renuncia, según Ley 1010 de 2006.\nf) Acoso sexual: actos de persecución/hostigamiento con connotación sexual mediada por relaciones de poder, conforme a Ley 2365 de 2024.\nSoporte normativo: Ley 1010 de 2006 (definición y marco de acoso laboral); Ley 2365 de 2024 (definición y principios/objeto en acoso sexual). Función Pública"
+        },
+        {
+          "numero": "6",
+          "titulo": "Obligatoriedad, divulgación y cumplimiento",
+          "contenido": "El presente RIT es de obligatorio cumplimiento para empleador y trabajadores. SUPERCAN realizará su divulgación y asegurará que esté disponible para consulta interna, sin que ello exima al trabajador de su conocimiento y observancia.\nSoporte normativo: CST, art. 104 (existencia del reglamento) y art. 120–121 (publicación y entrada en vigencia)."
+        },
+        {
+          "numero": "7",
+          "titulo": "Principios de respeto, igualdad y ambiente libre de violencias",
+          "contenido": "SUPERCAN promueve un ambiente de trabajo basado en la dignidad, el respeto, la igualdad, la no discriminación y la convivencia. Se adopta política de cero tolerancia frente a:\nacoso laboral (Ley 1010 de 2006), y\nacoso sexual en el ámbito laboral (Ley 2365 de 2024),\nsin perjuicio de las acciones disciplinarias y legales aplicables.\nSoporte normativo: Ley 1010 de 2006; Ley 2365 de 2024 (objeto, principios y marco de prevención/atención)."
+        },
+        {
+          "numero": "8",
+          "titulo": "Integración con el SG-SST y obligaciones generales en SST",
+          "contenido": "El cumplimiento de este RIT se articula con el SG-SST de SUPERCAN. En consecuencia:\nEl empleador adoptará medidas para proteger la seguridad y salud de los trabajadores dentro del SG-SST.\nLos trabajadores deberán cumplir las normas, reglamentos e instrucciones del SG-SST, y procurar el cuidado integral de su salud.\nSoporte normativo: Decreto 1072 de 2015 (DUR Trabajo), art. 2.2.4.6.8 (obligaciones del empleador) y art. 2.2.4.6.10 (responsabilidades de los trabajadores)."
+        },
+        {
+          "numero": "9",
+          "titulo": "Interpretación, jerarquía normativa y condición más favorable",
+          "contenido": "En la interpretación y aplicación de este RIT prevalecerán la Constitución, la ley laboral y los decretos reglamentarios. Ninguna disposición del RIT podrá interpretarse o aplicarse en detrimento de derechos mínimos del trabajador o en contravía de normas imperativas.\nSoporte normativo: CST (reglas del reglamento y su armonía con la ley; prohibición de desmejorar condiciones) y principios generales del derecho laboral."
+        },
+        {
+          "numero": "10",
+          "titulo": "Modificaciones, actualización y vigencia",
+          "contenido": "SUPERCAN podrá modificar este RIT cuando existan cambios normativos u operativos, garantizando el trámite de publicidad y disponibilidad exigido por ley.\nParágrafo. Publicación en medio virtual (obligación reforzada). La divulgación del RIT incluirá su disponibilidad en medio virtual para consulta de los trabajadores, además de la publicación física, conforme a la actualización introducida por la Ley 2466 de 2025.\nVigencia. Este RIT entrará a regir una vez cumplidas las formalidades de publicación y el término legal correspondiente.\nSoporte normativo: CST, arts. 120–121 (publicación y vigencia) y Ley 2466 de 2025 (modificación del art. 120 sobre publicación y disponibilidad virtual)."
+        }
+      ]
+    },
+    {
+      "titulo": "CAPÍTULO II",
+      "articulos": [
+        {
+          "numero": "11",
+          "titulo": "Principios de vinculación laboral",
+          "contenido": "VINCULACIÓN LABORAL, CONTRATOS Y PERÍODO DE PRUEBA\nSUPERCAN – CLÍNICA VETERINARIA (Persona natural) – Pasto, Nariño\nLa vinculación de trabajadores en SUPERCAN – Clínica Veterinaria se realizará conforme a la normatividad laboral vigente y a las políticas internas válidamente adoptadas. En todo caso, el ingreso, permanencia y terminación del vínculo laboral se regirá por los principios de buena fe, igualdad y respeto por la dignidad del trabajador, observando el debido proceso en las actuaciones internas.\nParágrafo. La modalidad contractual y las condiciones particulares se ajustarán a la ley, y el contrato de trabajo se configura cuando concurren sus elementos esenciales.\nSoporte normativo: CST arts. 22 y 23 (contrato y elementos esenciales); Ley 2466 de 2025 (refuerza garantías de debido proceso disciplinario en el marco laboral)."
+        },
+        {
+          "numero": "12",
+          "titulo": "Requisitos generales para el ingreso",
+          "contenido": "Para efectos de vinculación laboral, y según el cargo, SUPERCAN podrá solicitar al aspirante, entre otros, los siguientes documentos:\nDocumento de identidad.\nHoja de vida y soportes académicos, técnicos y/o de experiencia.\nCertificaciones laborales o referencias.\nDocumentos necesarios para la afiliación y novedades del Sistema de Seguridad Social Integral, cuando aplique.\nInformación y soportes estrictamente necesarios para la gestión laboral, de SG-SST y de nómina, respetando la protección de datos personales.\nParágrafo 1. La falsedad, adulteración o suplantación en documentos aportados podrá constituir falta grave y dar lugar a las medidas legales y disciplinarias aplicables, garantizando el debido proceso.\nParágrafo 2. SUPERCAN se abstendrá de solicitar información o documentos con fines discriminatorios o no pertinentes con el cargo, y garantizará la confidencialidad y tratamiento legítimo de los datos personales.\nSoporte normativo: Ley 1581 de 2012 (protección de datos personales) y Decreto 1072 de 2015 (gestión preventiva y documental del SG-SST)."
+        },
+        {
+          "numero": "13",
+          "titulo": "Proceso de selección",
+          "contenido": "SUPERCAN podrá implementar procesos de selección acordes con la naturaleza del cargo, que podrán incluir entrevistas, pruebas técnicas, pruebas psicotécnicas y verificación de referencias, siempre que dichas actividades sean pertinentes, proporcionales y respetuosas de los derechos fundamentales del aspirante.\nParágrafo. El proceso de selección no modifica la naturaleza del vínculo: existirá contrato de trabajo únicamente cuando concurran los elementos esenciales definidos por la ley.\nSoporte normativo: CST art. 23."
+        },
+        {
+          "numero": "14",
+          "titulo": "Evaluaciones médicas ocupacionales y medidas antidiscriminatorias",
+          "contenido": "La práctica de evaluaciones médicas ocupacionales se realizará conforme a la normatividad vigente y al SG-SST de SUPERCAN, a través de prestadores habilitados y personal competente, garantizando confidencialidad, reserva y enfoque preventivo. SUPERCAN solo podrá conocer el concepto de aptitud y las recomendaciones ocupacionales necesarias para la prevención y control del riesgo, sin acceso a información clínica detallada, salvo los casos autorizados por la ley y bajo reserva.\nParágrafo 1. La información de salud ocupacional será tratada conforme a la protección de datos personales y el principio de confidencialidad de la historia clínica ocupacional.\nParágrafo 2. Prohibición de pruebas con fines discriminatorios (embarazo y VIH). SUPERCAN tiene prohibido solicitar pruebas de embarazo o VIH como requisito para vinculación, permanencia o ascenso, salvo casos expresamente autorizados por ley y con consentimiento expreso e informado, garantizando que los resultados no se usarán con fines discriminatorios ni para afectar la estabilidad laboral.\nSoporte normativo: Decreto 1072 de 2015 (SG-SST, vigilancia de la salud y gestión preventiva); Resolución 1843 de 2025 (lineamientos en evaluaciones médicas ocupacionales y criterios de confidencialidad/aptitud); Ley 1581 de 2012 (tratamiento de datos)."
+        },
+        {
+          "numero": "15",
+          "titulo": "Pruebas de alcoholimetría y sustancias psicoactivas (enfoque preventivo)",
+          "contenido": "Con el objetivo de garantizar un ambiente de trabajo seguro, prevenir accidentes laborales y proteger la salud de los trabajadores y terceros, SUPERCAN podrá implementar pruebas de alcoholimetría y/o detección de sustancias psicoactivas, dentro del marco preventivo del SG-SST, con respeto de derechos fundamentales, confidencialidad, trazabilidad y aseguramiento de calidad del procedimiento.\na) Carácter preventivo: el resultado se enmarca en acciones preventivas del SG-SST.\nb) Aplicación: podrán aplicarse conforme a la política interna y evaluación de riesgos, en el centro de trabajo o lugares donde se preste el servicio.\nc) Consecuencias: un resultado positivo no constituye sanción automática; activará protocolos preventivos (incluida restricción temporal de tareas sensibles, si aplica). La negativa injustificada o la reincidencia podrán dar lugar a medidas disciplinarias, garantizando el debido proceso.\nSoporte normativo: Decreto 1072 de 2015 (obligaciones de empleador y trabajador en SST); Resolución 1843 de 2025 (enfoque preventivo y requisitos técnicos/garantías); Ley 2466 de 2025 (debido proceso en actuaciones disciplinarias)."
+        },
+        {
+          "numero": "16",
+          "titulo": "Naturaleza del contrato de trabajo",
+          "contenido": "Contrato de trabajo es aquel por el cual una persona natural se obliga a prestar un servicio personal a otra persona, natural o jurídica, bajo continuada dependencia o subordinación, mediante remuneración. La subordinación comprende la facultad del empleador de impartir instrucciones legítimas, supervisar su cumplimiento y aplicar medidas disciplinarias conforme a la ley y al presente RIT.\nSoporte normativo: CST art. 22."
+        },
+        {
+          "numero": "17",
+          "titulo": "Elementos esenciales del contrato de trabajo",
+          "contenido": "Para que exista contrato de trabajo se requiere la concurrencia de: i) actividad personal del trabajador, ii) subordinación o dependencia, y iii) salario como retribución del servicio.\nParágrafo. Reunidos dichos elementos, se entiende que existe contrato de trabajo, independientemente de la denominación que se le otorgue.\nSoporte normativo: CST art. 23."
+        },
+        {
+          "numero": "18",
+          "titulo": "Modalidades del contrato de trabajo",
+          "contenido": "SUPERCAN podrá celebrar contratos de trabajo en las modalidades permitidas por la legislación laboral vigente, tales como: término indefinido, término fijo, obra o labor determinada y demás figuras legalmente aplicables.\nParágrafo. La modalidad contractual no elimina la exigencia de los elementos esenciales del contrato de trabajo.\nSoporte normativo: CST arts. 22 y 23."
+        },
+        {
+          "numero": "19",
+          "titulo": "Contrato escrito y entrega de ejemplar",
+          "contenido": "Cuando el contrato sea escrito, se extenderá en tantos ejemplares como interesados, destinándose uno para cada parte.\nParágrafo. SUPERCAN podrá usar medios físicos o digitales para la gestión documental del contrato y sus anexos, garantizando trazabilidad y disponibilidad para consulta.\nSoporte normativo: CST art. 39."
+        },
+        {
+          "numero": "20",
+          "titulo": "Inicio de labores, afiliaciones e inducción",
+          "contenido": "Ningún trabajador iniciará labores sin que se haya formalizado su vinculación y se hayan realizado las gestiones requeridas para su afiliación y/o novedades al Sistema de Seguridad Social Integral, según corresponda.\nAdicionalmente, el trabajador deberá recibir inducción institucional y la inducción básica en SG-SST, conforme al plan de capacitación de SUPERCAN.\nParágrafo. Las evaluaciones médicas ocupacionales y recomendaciones se ejecutarán conforme a la Resolución 1843 de 2025, cuando aplique.\nSoporte normativo: Decreto 1072 de 2015 (capacitación, inducción y obligaciones del SG-SST); Resolución 1843 de 2025."
+        },
+        {
+          "numero": "21",
+          "titulo": "Período de prueba: definición, exigencia escrita y duración",
+          "contenido": "El período de prueba es la etapa inicial del contrato de trabajo que tiene por objeto, por parte del empleador, apreciar las aptitudes del trabajador y, por parte de este, la conveniencia de las condiciones de trabajo.\nEl período de prueba debe estipularse por escrito; en caso contrario, los servicios se entienden regulados por las normas generales del contrato de trabajo.\nPara SUPERCAN, el período de prueba se establece así, respetando los máximos legales:\nContratos a término indefinido: hasta dos (2) meses.\nContratos a término fijo inferiores a un (1) año: hasta la quinta parte (1/5) del término inicialmente pactado, sin que en ningún caso exceda dos (2) meses.\nParágrafo. En contratos sucesivos entre el mismo empleador y trabajador, no es válida una nueva estipulación de período de prueba, salvo para el primer contrato.\nSoporte normativo: CST arts. 76, 77 y 78."
+        },
+        {
+          "numero": "22",
+          "titulo": "Terminación del contrato durante el período de prueba",
+          "contenido": "Durante el período de prueba, cualquiera de las partes podrá dar por terminado el contrato en los términos permitidos por la ley.\nParágrafo. SUPERCAN garantizará que toda decisión se adopte de manera objetiva, razonable y documentada, evitando actuaciones discriminatorias o contrarias a la dignidad humana.\nSoporte normativo: CST arts. 79 y 80."
+        },
+        {
+          "numero": "23",
+          "titulo": "Evaluación y seguimiento durante el período de prueba",
+          "contenido": "Durante el período de prueba, SUPERCAN podrá evaluar el desempeño, competencias, adaptación al cargo, cumplimiento de instrucciones, conducta y observancia del SG-SST, con criterios objetivos y verificables, sin vulnerar derechos fundamentales.\nParágrafo. Estas evaluaciones no alteran la definición legal del período de prueba y se enmarcan dentro de su finalidad.\nSoporte normativo: CST art. 76; Decreto 1072 de 2015 (SG-SST: cumplimiento de instrucciones y autocuidado)."
+        },
+        {
+          "numero": "24",
+          "titulo": "Movilidad local, comisiones y lugar de prestación del servicio",
+          "contenido": "Por necesidades organizacionales u operativas, SUPERCAN podrá asignar comisiones o desplazamientos dentro de Pasto y su área de influencia, y requerir la prestación del servicio en lugares relacionados con la actividad (p. ej., diligencias con proveedores, compras autorizadas, traslado de insumos, apoyo en servicios a domicilio si se implementan), respetando la ley, la dignidad del trabajador y garantizando condiciones de SST.\nParágrafo. La existencia de movilidad o comisiones no modifica los elementos del contrato de trabajo ni la subordinación laboral.\nSoporte normativo: CST arts. 22 y 23; Decreto 1072 de 2015 (deber de garantizar SST donde se ejecute labor)."
+        },
+        {
+          "numero": "25",
+          "titulo": "Actualización de datos del trabajador y canales de comunicación",
+          "contenido": "Es obligación del trabajador mantener actualizada su información personal y de contacto y reportar oportunamente novedades que puedan afectar la relación laboral, la seguridad social o el SG-SST, aportando soportes cuando aplique.\nParágrafo. El tratamiento de datos personales del trabajador se realizará conforme a la Ley 1581 de 2012 y sus principios (finalidad, necesidad, confidencialidad y seguridad).\nSoporte normativo: Ley 1581 de 2012."
+        }
+      ]
+    },
+    {
+      "titulo": "CAPÍTULO III",
+      "articulos": [
+        {
+          "numero": "25",
+          "titulo": "",
+          "contenido": "TRABAJADORES TRANSITORIOS, CONTRATOS A TÉRMINO FIJO Y POR OBRA O LABOR\nFinalidad del capítulo y reglas de interpretación\nEste capítulo regula las modalidades de vinculación laboral aplicables en SUPERCAN – CLÍNICA VETERINARIA (persona natural), con domicilio en Pasto (Nariño), para atender necesidades temporales, transitorias o específicas del servicio, garantizando claridad sobre su alcance y límites. En todo caso, la existencia del contrato de trabajo se define por la concurrencia de sus elementos esenciales y no por el nombre dado a la vinculación.\nSoporte normativo: Código Sustantivo del Trabajo (CST), art. 23.\nSección A — Trabajos ocasionales, accidentales o transitorios"
+        },
+        {
+          "numero": "26",
+          "titulo": "",
+          "contenido": "Trabajo ocasional, accidental o transitorio\nSe entiende por trabajo ocasional, accidental o transitorio aquel que, por su naturaleza, es de corta duración y no corresponde a la actividad normal del empleador.\nSUPERCAN podrá utilizar esta forma de vinculación únicamente cuando se cumplan las condiciones legales y exista justificación objetiva de temporalidad.\nParágrafo. La utilización de estas modalidades no exime el cumplimiento integral de las obligaciones laborales y de seguridad social.\nSoporte normativo: CST, art. 6 (definición). CST, art. 45 (modalidades de duración del contrato).\nSección B — Contrato de trabajo a término fijo"
+        },
+        {
+          "numero": "27",
+          "titulo": "Contrato a término fijo: forma y duración",
+          "contenido": "El contrato de trabajo a término fijo deberá constar siempre por escrito y su duración se sujetará a la normativa vigente. SUPERCAN limitará el uso de esta modalidad a casos con causa objetiva de temporalidad, y realizará su control para evitar la desnaturalización del vínculo.\nParágrafo 1. En los contratos a término fijo, SUPERCAN dejará expresa la fecha de inicio y terminación, y las condiciones particulares del servicio.\nParágrafo 2. El contrato a término fijo se utilizará cuando exista una necesidad temporal razonable o una causa objetiva que justifique el plazo, sin desconocer la primacía de la realidad sobre las formas.\nSoporte normativo: CST, art. 23; (modificación del régimen del término fijo por Ley 2466 de 2025)."
+        },
+        {
+          "numero": "28",
+          "titulo": "Prórrogas y preaviso de no renovación",
+          "contenido": "La prórroga y/o renovación del contrato a término fijo se regirá por las reglas vigentes aplicables, incluyendo la comunicación de no renovación en los términos legalmente exigibles y el límite máximo de duración total permitido para esta modalidad.\nParágrafo. SUPERCAN establecerá control documental de prórrogas y comunicaciones de no renovación por medios físicos o digitales con trazabilidad, preservando evidencia.\nSoporte normativo: (régimen actualizado del contrato a término fijo y reglas asociadas, Ley 2466 de 2025 / modificación del CST)."
+        },
+        {
+          "numero": "29",
+          "titulo": "Conversión y riesgos por uso indebido del término fijo\nSUPERCAN evitará el uso del contrato a término fijo para cubrir necesidades permanentes mediante mecanismos de simulación o desnaturalización de la temporalidad, por cuanto, acreditados los elementos esenciales, la relación se rige por la realidad del vínculo laboral.",
+          "contenido": "Soporte normativo: CST, art. 23 (primacía de la realidad en cuanto a los elementos del contrato de trabajo).\nSección C — Contrato por obra o labor determinada"
+        },
+        {
+          "numero": "30",
+          "titulo": "Contrato por obra o labor: naturaleza y soporte",
+          "contenido": "El contrato de trabajo podrá celebrarse por el tiempo que dure la realización de una obra o labor determinada, cuando exista una actividad identificable, específica y delimitada que justifique esta modalidad (por ejemplo, un proyecto veterinario puntual, campaña temporal, inventario extraordinario, adecuaciones o actividades específicas con entregables verificables).\nParágrafo 1. Para SUPERCAN, la obra o labor deberá quedar descrita por escrito (en el contrato o anexo), definiendo alcance, entregables o criterios de finalización, como medida de claridad y control.\nParágrafo 2. La duración está ligada a la terminación real de la obra/labor; una vez finalice, la relación podrá concluir conforme a la ley, siempre que exista evidencia objetiva del cierre.\nSoporte normativo: CST, art. 45"
+        },
+        {
+          "numero": "31",
+          "titulo": "Prohibición de desnaturalización del contrato por obra o labor\nSUPERCAN no utilizará esta modalidad para encubrir necesidades permanentes o indefinidas. Si en la práctica se demuestra continuidad indefinida y concurren los elementos del contrato de trabajo, aplicará el principio de primacía de la realidad.",
+          "contenido": "Soporte normativo: CST, art. 23.\nSección D — Trabajadores en misión y Empresas de Servicios Temporales (EST)"
+        },
+        {
+          "numero": "32",
+          "titulo": "Trabajadores en misión: definición y alcance",
+          "contenido": "Cuando SUPERCAN requiera personal mediante Empresas de Servicios Temporales (EST), los trabajadores enviados a la empresa usuaria (“trabajadores en misión”) se regirán por la normativa especial aplicable a dichas empresas y por las reglas de seguridad, convivencia y disciplina operativa dentro de las instalaciones de SUPERCAN.\nSoporte normativo: Decreto 4369 de 2006."
+        },
+        {
+          "numero": "33",
+          "titulo": "Casos en los que procede contratar con EST",
+          "contenido": "SUPERCAN solo contratará con Empresas de Servicios Temporales en los eventos autorizados por la normativa aplicable para usuarios de EST, sustentando y documentando la temporalidad real del servicio.\nParágrafo. Cualquier uso de EST deberá estar sustentado en necesidad temporal real y documentada, evitando la tercerización abusiva y el riesgo de declaratoria de contrato realidad.\nSoporte normativo: Ley 50 de 1990, art. 77."
+        },
+        {
+          "numero": "34",
+          "titulo": "Obligaciones frente a SST y afiliaciones en caso de misión",
+          "contenido": "En los casos de trabajadores en misión, SUPERCAN garantizará el cumplimiento de medidas de prevención en el centro de trabajo y la coordinación en el SG-SST con la EST y la ARL. Las EST están obligadas a afiliar y realizar aportes al Sistema de Seguridad Social Integral respecto de sus trabajadores, conforme a la normativa aplicable.\nParágrafo. SUPERCAN exigirá a la EST evidencia de afiliaciones y condiciones de SST antes del inicio de labores, como mecanismo de control preventivo.\nSoporte normativo: Decreto 4369 de 2006, art. 12; Decreto 1072 de 2015 (SG-SST, coordinación de actividades preventivas en el centro de trabajo).\nSección E — Externos/temporales sin vínculo laboral directo con SUPERCAN"
+        },
+        {
+          "numero": "35",
+          "titulo": "Contratistas y terceros: independencia y límites",
+          "contenido": "SUPERCAN podrá contratar servicios con terceros (personas naturales o jurídicas) bajo modalidades civiles, comerciales o de prestación de servicios, cuando no exista subordinación laboral. En todo caso, la relación laboral se configura si concurren los elementos del contrato de trabajo.\nParágrafo 1. Los contratistas y terceros deberán cumplir las normas de ingreso, bioseguridad, seguridad, confidencialidad, protección de datos y SG-SST exigidas por SUPERCAN dentro de sus instalaciones, en lo pertinente, sin que ello implique subordinación laboral.\nParágrafo 2. SUPERCAN documentará las condiciones del servicio contratado y el alcance de la supervisión contractual, con el fin de evitar riesgos de desnaturalización.\nSoporte normativo: CST, art. 23; Decreto 1072 de 2015 (SG-SST, coordinación con contratistas en el centro de trabajo, según aplique); Ley 1581 de 2012 (datos personales)."
+        },
+        {
+          "numero": "36",
+          "titulo": "Cierre del capítulo y control documental",
+          "contenido": "SUPERCAN llevará control documental de la modalidad contractual utilizada, soportes de temporalidad, prórrogas, comunicaciones relevantes, y evidencia de cierre de obra/labor o terminación del término fijo, preservando trazabilidad para fines laborales, de auditoría y de inspección.\nParágrafo. La documentación contractual se conservará y tratará conforme a la normativa de protección de datos personales y a las políticas internas vigentes.\nSoporte normativo: Ley 1581 de 2012 (protección de datos personales)."
+        }
+      ]
+    },
+    {
+      "titulo": "CAPÍTULO IV",
+      "articulos": [
+        {
+          "numero": "37",
+          "titulo": "Jornada ordinaria y duración máxima",
+          "contenido": "JORNADA, HORARIOS, DESCANSOS Y DISTRIBUCIÓN DEL TIEMPO DE TRABAJO\nEn SUPERCAN – CLÍNICA VETERINARIA, la jornada ordinaria se sujetará a lo pactado en el contrato de trabajo y, en todo caso, a los límites legales vigentes. La jornada ordinaria diaria, como referencia general, será de ocho (8) horas al día, sin perjuicio de la reducción gradual de la jornada semanal prevista por la ley.\nReducción gradual de jornada semanal (Ley 2101 de 2021).\nSUPERCAN aplicará la reducción gradual de la jornada máxima legal semanal conforme al cronograma vigente. En consecuencia:\nCuarenta y cuatro (44) horas semanales hasta el 14 de julio de 2026.\nCuarenta y dos (42) horas semanales a partir del 15 de julio de 2026.\nLa jornada máxima semanal podrá ser distribuida, de común acuerdo entre SUPERCAN y el trabajador, de cinco (5) a seis (6) días a la semana, garantizando siempre el día de descanso obligatorio y sin disminución del salario por efecto de la reducción legal.\nSoporte normativo: Ley 2101 de 2021 (modifica CST, art. 161; regla y cronograma)."
+        },
+        {
+          "numero": "38",
+          "titulo": "Jornada laboral flexible",
+          "contenido": "De acuerdo con la Ley 2101 de 2021 (CST, art. 161), SUPERCAN podrá implementar jornada laboral flexible, en la cual la jornada semanal será la máxima legal vigente (según el esquema gradual indicado en el artículo anterior), distribuida en un máximo de seis (6) días a la semana con un (1) día de descanso obligatorio.\nAsí, el número de horas de trabajo diario podrá distribuirse de manera variable durante la respectiva semana, teniendo como mínimo cuatro (4) horas continuas y máximo hasta nueve (9) horas diarias, sin lugar a recargo por trabajo suplementario, cuando no se exceda el promedio semanal máximo legal aplicable dentro de la jornada ordinaria.\nParágrafo. SUPERCAN garantiza a sus trabajadores un (1) día de descanso remunerado por semana, conforme a la normatividad vigente.\nSoporte normativo: Ley 2101 de 2021 / CST, art. 161 (literal d y parágrafo)."
+        },
+        {
+          "numero": "39",
+          "titulo": "Distribución variable de horas, jornada nocturna y recargos",
+          "contenido": "El número de horas de trabajo diario podrá distribuirse de manera variable según las necesidades del servicio veterinario (consulta, procedimientos, cirugías programadas, hospitalización, peluquería/baño, manejo de inventario y atención al cliente), dentro de los límites legales. Dentro del horario pactado, si el trabajador debe laborar en jornada nocturna, tendrá derecho al pago del recargo nocturno correspondiente conforme a la normatividad vigente.\nParágrafo. Las reglas específicas sobre recargos nocturnos, trabajo suplementario, dominical y festivo se desarrollarán en el capítulo correspondiente de este Reglamento.\nSoporte normativo: CST, art. 160 (jornada diurna/nocturna, modificado por reforma laboral); CST, art. 168 (recargo nocturno)."
+        },
+        {
+          "numero": "40",
+          "titulo": "Excepciones y modalidades especiales de jornada",
+          "contenido": "Sin perjuicio de lo indicado en los artículos anteriores, podrán aplicarse las siguientes modalidades, cuando la operación lo requiera y sea legalmente procedente:\nJornadas diarias flexibles: SUPERCAN y el trabajador podrán acordar que la jornada semanal máxima legal se realice mediante jornadas diarias flexibles, distribuidas en máximo seis (6) días a la semana, con un (1) día de descanso obligatorio.\nTurnos sucesivos: Cuando sea necesario asegurar continuidad operativa (p. ej., hospitalización o atención prioritaria), podrán establecerse turnos sucesivos, conforme a los límites y condiciones que permita la ley.\nCargos de dirección, confianza o manejo: Los trabajadores que desempeñen cargos de dirección, confianza o manejo se regirán por la normativa aplicable, sin perjuicio de la protección del descanso y la salud.\nSoporte normativo: Ley 2101 de 2021 / CST, art. 161 (literales c y d)."
+        },
+        {
+          "numero": "41",
+          "titulo": "Jornada para menores de edad",
+          "contenido": "En caso de que SUPERCAN vincule menores de edad con autorización legal, la duración máxima de su jornada laboral se sujetará a las reglas especiales aplicables, incluyendo restricciones para trabajo nocturno, dominical y actividades prohibidas.\nSoporte normativo: Ley 2101 de 2021 / CST, art. 161 literal b (límites para adolescentes) Código de Infancia y Adolescencia (Ley 1098 de 2006, normas sobre trabajo adolescente)."
+        },
+        {
+          "numero": "42",
+          "titulo": "Descansos intrajornada",
+          "contenido": "Durante los horarios de trabajo, SUPERCAN establece como medida de bienestar y prevención de fatiga dos (2) pausas de descanso intrajornada de diez (10) minutos cada una, así:\nDiez (10) minutos en la jornada de la mañana.\nDiez (10) minutos en la jornada de la tarde.\nFinalidad del descanso. Estos periodos de descanso buscan facilitar recuperación física y mental, contribuyendo al rendimiento y a un ambiente de trabajo saludable.\nParágrafo. Cualquier exceso injustificado en el tiempo de descanso o su disfrute fuera de los lapsos autorizados podrá considerarse tiempo no laborado y podrá dar lugar a medidas disciplinarias conforme al presente Reglamento, previa verificación y debido proceso.\nSoporte normativo: Decreto 1072 de 2015 (SG-SST: gestión de fatiga y condiciones de trabajo saludables, según evaluación de riesgos); CST (poder subordinante y reglamentario, dentro de límites legales y de dignidad)."
+        },
+        {
+          "numero": "43",
+          "titulo": "Horario de almuerzo",
+          "contenido": "El horario destinado para el almuerzo será, como regla general, de doce y treinta (12:30 p. m.) a una y treinta (1:30 p. m.), otorgando un tiempo de una (1) hora para dicho fin, salvo que por necesidades del servicio veterinario se requiera ajuste razonable (p. ej., procedimientos, urgencias, cirugías o atención prioritaria).\nParágrafo. En los casos en que por la prestación del servicio no sea posible tomar el almuerzo en el lapso indicado, este deberá disfrutarse de manera inmediata una vez concluida la actividad correspondiente, procurando garantizar el descanso y la alimentación del trabajador.\nSoporte normativo: CST (organización del tiempo de trabajo por el empleador dentro de límites de jornada); Decreto 1072 de 2015 (SG-SST: condiciones de trabajo, prevención de fatiga)."
+        },
+        {
+          "numero": "44",
+          "titulo": "Ius variandi en materia de horarios",
+          "contenido": "SUPERCAN, en ejercicio de su poder subordinante y reglamentario, podrá realizar ajustes o modificaciones a los horarios de trabajo previamente establecidos, cuando así lo exijan las necesidades del servicio, la naturaleza de la operación clínica veterinaria o situaciones imprevistas que requieran asegurar continuidad operativa (p. ej., urgencias, hospitalización, procedimientos, inventarios, abastecimiento de insumos, o variaciones de demanda).\nLímites del ius variandi. Estos cambios se aplicarán respetando en todo momento:\nLa dignidad del trabajador.\nLos derechos mínimos laborales.\nLa vida personal y familiar del trabajador, evitando alteraciones desproporcionadas.\nLa seguridad y salud en el trabajo (gestión del riesgo, fatiga, tiempos de recuperación y descansos).\nGarantía de no desmejoramiento. En ningún caso la modificación de horarios implicará desmejoramiento injustificado de las condiciones esenciales del contrato de trabajo ni la supresión de beneficios reconocidos al trabajador.\nSoporte normativo: CST, art. 23 (subordinación como elemento del contrato, con límites); Constitución Política, art. 53 (principios mínimos del trabajo); Decreto 1072 de 2015 (SG-SST: prevención de fatiga y organización del trabajo)."
+        },
+        {
+          "numero": "45",
+          "titulo": "Horario laboral por áreas y autonomía operativa interna",
+          "contenido": "En atención a la operación y necesidades del servicio, SUPERCAN define que los horarios de trabajo podrán establecerse por áreas/servicios (por ejemplo: recepción y atención al cliente, consulta veterinaria, procedimientos/quirófano, hospitalización, peluquería/baño, farmacia/ventas, apoyo administrativo), de acuerdo con la programación, afluencia de usuarios y requerimientos de la clínica, sin que ello constituya trato desigual, siempre que se respeten los límites legales, el descanso y la no discriminación.\nEl horario aplicable a cada trabajador deberá constar en el contrato, anexo o comunicación interna formal, y será divulgado por los canales definidos por SUPERCAN, dejando evidencia de su publicación.\nParágrafo 1. SUPERCAN asegurará el cumplimiento de la jornada máxima legal vigente y de las reglas de distribución y descanso.\nParágrafo 2. SUPERCAN podrá ajustar horarios por áreas conforme a necesidades del servicio, respetando dignidad, razonabilidad, seguridad y salud en el trabajo y garantizando comunicación previa (ius variandi).\nSoporte normativo: Ley 2101 de 2021 / CST, art. 161 (distribución semanal y límites)."
+        },
+        {
+          "numero": "46",
+          "titulo": "Disposiciones especiales para trabajadores en comisión de servicio, desplazamientos y diligencias externas",
+          "contenido": "En virtud del poder subordinante del empleador y con el fin de salvaguardar la seguridad, la salud y los intereses de SUPERCAN, se establecen las siguientes disposiciones para el personal que, por razones del servicio (por ejemplo: compras de insumos veterinarios, traslado de equipos, diligencias bancarias/autorizadas, entrega o recolección de muestras/medicamentos, gestión logística con proveedores, o desplazamientos operativos autorizados), deba desplazarse a diferentes zonas:\nEl trabajador deberá cumplir rutas, instrucciones, procedimientos y tiempos definidos por SUPERCAN.\nMantendrá comunicación por los canales definidos durante la comisión.\nProtegerá bienes, dinero, documentos, equipos y la información a su cargo.\nSe prohíben conductas que comprometan su integridad, la seguridad de terceros, la imagen de SUPERCAN o el cumplimiento de sus deberes.\nParágrafo 1. Cuando excepcionalmente la comisión implique pernoctar fuera de la residencia habitual (si llegare a ocurrir), el alojamiento se realizará exclusivamente en los lugares previamente autorizados por SUPERCAN y destinados únicamente para el descanso; se prohíbe el ingreso de personas ajenas a la comisión a dichos lugares.\nParágrafo 2. El incumplimiento de estas disposiciones será valorado dentro del régimen disciplinario del presente Reglamento y podrá constituir falta grave o gravísima, según el riesgo generado, la afectación a SUPERCAN y la reiteración, garantizando siempre el debido proceso.\nSoporte normativo: CST, art. 23 (subordinación/poder de dirección dentro de límites); Decreto 1072 de 2015 (SG-SST: control operativo del riesgo en desplazamientos, según matriz de peligros y procedimientos)."
+        }
+      ]
+    },
+    {
+      "titulo": "CAPÍTULO V",
+      "articulos": [
+        {
+          "numero": "47",
+          "titulo": "Trabajo suplementario u horas extras (definición).",
+          "contenido": "TRABAJO SUPLEMENTARIO, NOCTURNO, DOMINICAL Y FESTIVO (SUPERCAN)\nSe entiende por trabajo suplementario u horas extras el que excede la jornada ordinaria pactada o la jornada máxima legal aplicable. En SUPERCAN, por la naturaleza del servicio veterinario (urgencias, hospitalización y atención de pacientes), podrán requerirse extensiones de jornada solo cuando exista necesidad real del servicio y se cumplan los límites legales.\nSoporte normativo: CST, art. 159 (trabajo suplementario)."
+        },
+        {
+          "numero": "48",
+          "titulo": "Límite máximo de horas extras.",
+          "contenido": "El trabajo suplementario en SUPERCAN no podrá exceder de dos (2) horas diarias ni de doce (12) horas semanales, salvo las excepciones legales aplicables.\nSoporte normativo: Ley 2466 de 2025, art. 13 (modificación del art. 22 de la Ley 50 de 1990)."
+        },
+        {
+          "numero": "49",
+          "titulo": "Autorización interna, control y evidencia.",
+          "contenido": "En SUPERCAN, toda hora extra o trabajo suplementario deberá contar con autorización previa del empleador o de quien este delegue (coordinación/administración), dejando soporte verificable (programación de turnos, registro de ingreso/salida, novedades, etc.).\nLa empresa llevará un registro interno del trabajo suplementario como soporte de nómina y cumplimiento legal. No se requerirá permiso previo del Ministerio del Trabajo, sin perjuicio de las obligaciones de registro, pago y control.\nSoporte normativo: Ley 2466 de 2025, art. 12 (registro del trabajo suplementario; no requiere autorización del MinTrabajo)."
+        },
+        {
+          "numero": "50",
+          "titulo": "Trabajo diurno y nocturno (definición y aplicación en SUPERCAN).",
+          "contenido": "Para efectos del reconocimiento de recargos:\nRegla general (vigente): Trabajo diurno es el realizado entre 6:00 a. m. y 7:00 p. m.; trabajo nocturno es el realizado entre 7:00 p. m. y 6:00 a. m. del día siguiente.\nEntrada en vigencia diferida: La definición anterior de jornada nocturna (desde las 7:00 p. m.) aplica seis (6) meses después de la sanción de la Ley 2466 de 2025 (sancionada el 25 de junio de 2025). En consecuencia, SUPERCAN aplicará esta regla desde el 25 de diciembre de 2025.\nMientras entra en vigencia el cambio anterior, se mantiene la definición previa de jornada nocturna establecida por la Ley 1846 de 2017 (nocturna desde 9:00 p. m.).\nSoporte normativo:\nLey 2466 de 2025, art. 10 (modifica art. 160 CST) y parágrafo 2 (vigencia a los 6 meses). Ley 1846 de 2017, art. 1 (art. 160 CST: diurna 6:00 a. m. – 9:00 p. m.)."
+        },
+        {
+          "numero": "51",
+          "titulo": "Recargo nocturno.",
+          "contenido": "El trabajo nocturno ordinario genera el recargo legal correspondiente sobre el valor de la hora ordinaria, de acuerdo con la normatividad vigente.\nSoporte normativo: CST, art. 168 (tasas y liquidación de recargos)."
+        },
+        {
+          "numero": "52",
+          "titulo": "Trabajo en domingos y festivos.",
+          "contenido": "Cuando por necesidades del servicio (urgencias, hospitalización, turnos de cuidado, procedimientos) se requiera laborar en domingos o días de fiesta, SUPERCAN programará turnos y realizará el pago del recargo legal o el descanso compensatorio cuando aplique, conforme a la ley.\nSoporte normativo: CST, reglas de descanso dominical y su remuneración (arts. 172 y ss.)."
+        },
+        {
+          "numero": "53",
+          "titulo": "Recargo dominical y festivo (gradualidad Ley 2466 de 2025).",
+          "contenido": "El trabajo en domingo o festivo se reconocerá con el recargo legal correspondiente, así:\nHasta el 30 de junio de 2025: se reconoce el recargo vigente previo.\nDesde el 1 de julio de 2025: recargo del 80%.\nDesde el 1 de julio de 2026: recargo del 90%.\nDesde el 1 de julio de 2027: recargo del 100%.\nSoporte normativo: Ley 2466 de 2025, art. 14 (modifica art. 179 CST: recargo dominical/festivo con implementación gradual)."
+        },
+        {
+          "numero": "54",
+          "titulo": "Descanso obligatorio distinto al domingo (acuerdo).",
+          "contenido": "En SUPERCAN, por necesidades del servicio y la programación de turnos, el día de descanso obligatorio podrá pactarse en día diferente al domingo, por escrito o por medio verificable (programación/turnos), sin desconocer los recargos y/o compensaciones a que haya lugar según el caso.\nSoporte normativo: Ley 2466 de 2025, art. 14 (parágrafo 3 del art. 179 CST: permite acordar día de descanso distinto)."
+        },
+        {
+          "numero": "55",
+          "titulo": "Horas extras diurnas.",
+          "contenido": "Las horas extras diurnas (cuando sean procedentes y autorizadas) se liquidarán con el recargo legal correspondiente.\nSoporte normativo: CST, art. 168 (recargos por trabajo suplementario)."
+        },
+        {
+          "numero": "56",
+          "titulo": "Horas extras nocturnas.",
+          "contenido": "Las horas extras nocturnas (cuando sean procedentes y autorizadas) se liquidarán con el recargo legal correspondiente, teniendo en cuenta la definición de jornada nocturna vigente para la fecha de prestación del servicio (Art. 50 del presente reglamento).\nSoporte normativo: CST, art. 168 (recargos) y Ley 2466 de 2025, art. 10 (definición de jornada nocturna y vigencia)."
+        },
+        {
+          "numero": "57",
+          "titulo": "Prohibición de compensar o “incluir” recargos dentro del salario sin soporte legal.",
+          "contenido": "Ningún pago podrá “absorber” o sustituir recargos legales (nocturnos, dominicales, festivos u horas extras), salvo que exista base legal expresa y soportes claros en nómina, respetando el carácter mínimo e irrenunciable de los derechos laborales.\nSoporte normativo: Principio de irrenunciabilidad (art. 53 C.P., reiterado en la Ley 2466 de 2025 como principio laboral)."
+        },
+        {
+          "numero": "58",
+          "titulo": "Liquidación y soportes.",
+          "contenido": "SUPERCAN liquidará los recargos con base en el salario del trabajador, la jornada aplicable, los registros de tiempo y la nómina, conservando los soportes por el término legal y garantizando trazabilidad (turnos, planillas, sistemas, actas, etc.).\nSoporte normativo: Ley 2466 de 2025, art. 12 (registro del trabajo suplementario) y reglas generales de recargos (CST art. 168)."
+        },
+        {
+          "numero": "59",
+          "titulo": "Gestión preventiva de fatiga y seguridad del servicio.",
+          "contenido": "Para turnos extendidos o nocturnos, SUPERCAN adoptará medidas razonables de prevención de fatiga (rotación de turnos, pausas, entrega de turno, etc.) cuando aplique, por tratarse de un servicio que puede involucrar riesgos (manejo de animales, instrumental, medicamentos, bioseguridad), articulándolo con el SG-SST.\nSoporte normativo: Decreto 1072 de 2015 (SG-SST – obligación de prevención y gestión de riesgos) y Resolución 0312 de 2019 (estándares mínimos del SG-SST). (Para este artículo el soporte es SG-SST; si quieres, en el próximo paso lo amarramos con el numeral exacto aplicable a tu tamaño de empresa y nivel de riesgo de SUPERCAN.)"
+        },
+        {
+          "numero": "60",
+          "titulo": "Turnos y disponibilidad.",
+          "contenido": "La programación de turnos (incluyendo turnos nocturnos, dominicales o festivos) se comunicará con antelación razonable, y cualquier cambio o novedad deberá quedar registrado. La disponibilidad o “turno de llamada” solo procederá si está claramente definida y soportada, sin desconocer recargos o tiempos efectivamente laborados.\nSoporte normativo: Reglas generales de jornada/recargos (CST) y principios laborales (Ley 2466 de 2025)."
+        },
+        {
+          "numero": "61",
+          "titulo": "No concurrencia de recargos: aplicación del recargo que corresponda según la ley.",
+          "contenido": "Cuando coincidan condiciones (p. ej., domingo y nocturno, o domingo y horas extra), la liquidación se realizará conforme a las reglas legales sobre recargos y trabajo suplementario, evitando dobles cobros no previstos, pero sin desconocer el pago debido por la naturaleza real del tiempo laborado.\nSoporte normativo: CST (recargos: art. 168; dominical/festivo: art. 179 modificado)."
+        },
+        {
+          "numero": "62",
+          "titulo": "Atención de urgencias y continuidad del servicio.",
+          "contenido": "En caso de urgencias veterinarias o continuidad de tratamientos/hospitalización, SUPERCAN podrá requerir la extensión de jornada o reasignación temporal de turnos, garantizando el reconocimiento y pago de los recargos a que haya lugar, y respetando los límites y controles previstos en este capítulo.\nSoporte normativo: Límite y control de horas extras (Ley 2466 de 2025, arts. 12 y 13) y reglas de recargos (CST)."
+        },
+        {
+          "numero": "63",
+          "titulo": "Comunicación al trabajador y transparencia.",
+          "contenido": "El trabajador podrá solicitar la verificación de sus recargos con base en los soportes de turno y nómina. SUPERCAN garantizará la entrega de información laboral mínima y la trazabilidad del tiempo efectivamente laborado.\nSoporte normativo: Principios laborales (Ley 2466 de 2025) y deber de soportes/registro del trabajo suplementario (Ley 2466 de 2025, art. 12)."
+        },
+        {
+          "numero": "64",
+          "titulo": "Prohibición de pactos en contra de los recargos legales.",
+          "contenido": "Se prohíbe todo pacto o acuerdo que implique renuncia, disminución o desconocimiento de los recargos legales o del pago del trabajo suplementario conforme a la ley.\nSoporte normativo: Principio de irrenunciabilidad (art. 53 C.P. y principios reiterados en Ley 2466 de 2025)."
+        }
+      ]
+    },
+    {
+      "titulo": "CAPÍTULO VI",
+      "articulos": [
+        {
+          "numero": "65",
+          "titulo": "Días de descanso obligatorio.",
+          "contenido": "DÍAS DE DESCANSO, VACACIONES, PERMISOS Y LICENCIAS\nDÍAS DE DESCANSO LEGALMENTE OBLIGATORIOS\nEn SUPERCAN (Persona Natural) serán de descanso obligatorio remunerado los domingos y los días festivos reconocidos por la legislación laboral colombiana. Así mismo, se aplicará la regla de traslado de festivos establecida en la Ley 51 de 1983 (Ley Emiliani), cuando corresponda.\nDías festivos reconocidos (referencia general):\nFechas fijas: 1° de enero, 1° de mayo, 20 de julio, 7 de agosto, 8 de diciembre y 25 de diciembre.\nTrasladables al lunes siguiente (Ley Emiliani): 6 de enero, 19 de marzo, 29 de junio, 15 de agosto, 12 de octubre, 1° de noviembre, 11 de noviembre, así como Ascensión del Señor, Corpus Christi y Sagrado Corazón de Jesús (cuando aplique su traslado).\nMóviles: jueves y Viernes Santos, y demás móviles del calendario religioso según corresponda.\nParágrafo. En razón de la naturaleza del servicio veterinario (atención clínica, procedimientos, hospitalización, urgencias y/o turnos), la programación de turnos y descansos se organizará procurando continuidad del servicio, sin desconocer los mínimos legales del descanso remunerado y dejando trazabilidad.\nSoporte normativo: Código Sustantivo del Trabajo – descanso dominical y festivo; Ley 51 de 1983 (Ley Emiliani)."
+        },
+        {
+          "numero": "66",
+          "titulo": "Remuneración en días de descanso obligatorio (dominicales y festivos).\nCuando, por necesidades del servicio de SUPERCAN (Persona Natural), el trabajador labore en domingo o festivo, se reconocerá la remuneración y recargos conforme a la normativa vigente, en especial el artículo 179 del Código Sustantivo del Trabajo (modificado por la Ley 2466 de 2025), así:",
+          "contenido": "Recargo dominical y festivo: El trabajo en día de descanso obligatorio o festivo se remunera con recargo sobre el valor de la hora ordinaria, en proporción a las horas laboradas, sin perjuicio del salario ordinario cuando haya lugar.\nCoincidencia de descansos: Si coincide un festivo con el día de descanso obligatorio, el recargo se reconoce una sola vez conforme a la norma.\nTrabajo dominical ocasional o habitual:\nOcasional: hasta dos (2) domingos o festivos laborados en el mes calendario.\nHabitual: tres (3) o más domingos o festivos laborados en el mes calendario.\nPacto de descanso diferente al domingo: Podrá pactarse por escrito un día de descanso distinto al domingo, según la ley.\nImplementación gradual (Ley 2466 de 2025):\nDesde 1 de julio de 2025: 80%\nDesde 1 de julio de 2026: 90%\nDesde 1 de julio de 2027: 100%\nSoporte normativo: Art. 179 CST (modificado por Ley 2466 de 2025 y parágrafo transitorio de gradualidad).\nVACACIONES REMUNERADAS"
+        },
+        {
+          "numero": "67",
+          "titulo": "Derecho a vacaciones.",
+          "contenido": "En SUPERCAN (Persona Natural), el trabajador que haya prestado sus servicios durante un (1) año tiene derecho a quince (15) días hábiles consecutivos de vacaciones remuneradas.\nSoporte normativo: Art. 186 del Código Sustantivo del Trabajo."
+        },
+        {
+          "numero": "68",
+          "titulo": "Programación y disfrute de vacaciones.",
+          "contenido": "Las vacaciones serán programadas y comunicadas procurando armonizar: (i) necesidades del servicio veterinario y continuidad de la operación, y (ii) el derecho efectivo al descanso del trabajador. Las vacaciones deberán otorgarse dentro de los plazos y condiciones previstas en la ley.\nSoporte normativo: Arts. 186 y 187 del Código Sustantivo del Trabajo (época y reglas de disfrute)."
+        },
+        {
+          "numero": "69",
+          "titulo": "Remuneración de las vacaciones.",
+          "contenido": "Durante el período de vacaciones, el trabajador recibirá el salario ordinario que esté devengando al inicio del disfrute. Cuando el salario sea variable, se aplicarán las reglas legales sobre promedio y exclusiones.\nSoporte normativo: Art. 192 del Código Sustantivo del Trabajo."
+        },
+        {
+          "numero": "70",
+          "titulo": "Registro de vacaciones.",
+          "contenido": "SUPERCAN (Persona Natural) llevará un registro de vacaciones donde conste, como mínimo: fecha de inicio, fecha de terminación y remuneración correspondiente, el cual estará disponible para el trabajador y la autoridad competente cuando sea requerido.\nSoporte normativo: Art. 187 del Código Sustantivo del Trabajo."
+        },
+        {
+          "numero": "71",
+          "titulo": "Vacaciones proporcionales en contratos inferiores a un año.",
+          "contenido": "En contratos a término fijo inferior a un (1) año y demás vinculaciones de duración inferior al año, el trabajador tendrá derecho a vacaciones proporcionales al tiempo laborado, o a su compensación en dinero únicamente en los eventos permitidos por la ley.\nSoporte normativo: Art. 189 del Código Sustantivo del Trabajo.\nPERMISOS Y LICENCIAS"
+        },
+        {
+          "numero": "72",
+          "titulo": "Licencias obligatorias remuneradas y permisos.",
+          "contenido": "SUPERCAN (Persona Natural) concederá las licencias y permisos obligatorios remunerados previstos por la ley, en especial:\nEjercicio del sufragio (votar) y beneficios asociados conforme a la normativa aplicable.\nDesempeño de cargos oficiales transitorios de forzosa aceptación.\nGrave calamidad doméstica debidamente comprobada.\nConcurrencia al servicio médico correspondiente (citas, controles, valoraciones y tratamientos), según la regulación vigente.\nComisiones sindicales inherentes a la organización (si existiere) y demás eventos previstos en ley.\nPermisos adicionales (política interna, cuando aplique y sin desconocer mínimos legales):\nCitaciones judiciales o administrativas.\nAsuntos escolares indispensables como acudiente, cuando se acrediten y sea razonable su concesión.\nOtros permisos personales, sujetos a autorización y a la operación.\nCondiciones generales:\nAviso y solicitud: el trabajador informará con la anticipación que las circunstancias permitan.\nSoportes: deberá aportar los documentos que acrediten el hecho (citación, certificado, etc.).\nCoordinación operativa: se coordinará el permiso sin afectar injustificadamente la continuidad del servicio, respetando el núcleo esencial del derecho.\nSoporte normativo: Art. 57 numeral 6 del CST (modificado por Ley 2466 de 2025); Ley 403 de 1997 (estímulos al sufragante); (criterios de lactancia y otros permisos según leyes aplicables cuando corresponda)."
+        },
+        {
+          "numero": "73",
+          "titulo": "Licencia de maternidad.",
+          "contenido": "La trabajadora en estado de embarazo tendrá derecho a la licencia de maternidad en los términos y duración previstos por la ley vigente, remunerada conforme a las reglas aplicables, y con las protecciones especiales correspondientes.\nSoporte normativo: Art. 236 del CST (modificado por Ley 1822 de 2017) y normas concordantes."
+        },
+        {
+          "numero": "74",
+          "titulo": "Licencia de paternidad.",
+          "contenido": "El trabajador padre tendrá derecho a la licencia remunerada de paternidad en los términos y duración definidos por la ley vigente y su reglamentación, con reconocimiento a cargo del sistema conforme corresponda, previa acreditación del nacimiento.\nSoporte normativo: Ley 2114 de 2021 y reglas legales vigentes sobre reconocimiento de la licencia."
+        },
+        {
+          "numero": "75",
+          "titulo": "Descanso remunerado durante la lactancia.",
+          "contenido": "SUPERCAN (Persona Natural) concederá a la trabajadora, dentro de la jornada laboral, los descansos remunerados para lactancia así:\nDurante los primeros seis (6) meses del menor: dos (2) descansos de treinta (30) minutos cada uno.\nLuego de los seis (6) meses y hasta los dos (2) años del menor: un (1) descanso de treinta (30) minutos, siempre que se mantenga y manifieste lactancia materna continua, en los términos de la ley.\nSe otorgarán descansos adicionales cuando exista recomendación médica.\nSoporte normativo: Art. 238 del CST (modificado por Ley 2306 de 2023)."
+        },
+        {
+          "numero": "76",
+          "titulo": "Licencia remunerada por luto.",
+          "contenido": "SUPERCAN (Persona Natural) concederá al trabajador, en caso de fallecimiento de su cónyuge, compañero(a) permanente o familiar dentro de los grados previstos en la ley, una licencia remunerada por luto de cinco (5) días hábiles. La grave calamidad doméstica no incluye la licencia por luto.\nDocumentación: el trabajador aportará registro civil de defunción u otro documento idóneo dentro del término legal o el que señalen las autoridades.\nSoporte normativo: Ley 1280 de 2009 (adiciona numeral 10 al art. 57 CST)."
+        }
+      ]
+    },
+    {
+      "titulo": "CAPÍTULO VII",
+      "articulos": [
+        {
+          "numero": "77",
+          "titulo": "Definición de salario en SUPERCAN – Clínica Veterinaria",
+          "contenido": "POLÍTICA SALARIAL, RANGOS DE REMUNERACIÓN Y SALARIO EN ESPECIE\nSUPERCAN – CLÍNICA VETERINARIA (Persona Natural) – Pasto, Nariño\nEn SUPERCAN – Clínica Veterinaria, se entiende por salario todo lo que recibe el trabajador en dinero o en especie como contraprestación directa de los servicios prestados, ya sea remuneración ordinaria, fija o variable, sin importar la denominación que se le asigne (sueldo, comisiones, primas habituales, recargos, etc.). Hacen parte del salario, entre otros, los conceptos que retribuyen de manera directa el servicio subordinado y que ingresan al patrimonio del trabajador a título oneroso.\nSoporte normativo: CST, art. 127 (definición de salario); Ley 50 de 1990 (modificaciones al régimen laboral, incluyendo reglas salariales)."
+        },
+        {
+          "numero": "78",
+          "titulo": "Conceptos que constituyen salario",
+          "contenido": "En SUPERCAN – Clínica Veterinaria constituyen salario, siempre que retribuyan directamente el trabajo del empleado, entre otros:\nEl sueldo básico mensual pactado.\nComisiones, porcentajes por ventas o productividad, cuando apliquen (p. ej., servicios de peluquería/baño, metas de ventas de productos veterinarios, u otros esquemas autorizados).\nPrimas habituales de carácter salarial que se pacten (por ejemplo, primas fijas mensuales o por cumplimiento con vocación de permanencia).\nSobresueldos o incrementos permanentes asociados al cargo o a la responsabilidad (p. ej., coordinación operativa, manejo de caja, inventarios, responsabilidades técnicas).\nValor del trabajo suplementario u horas extras, cuando proceda.\nValor del trabajo realizado en días de descanso obligatorio, dominicales o festivos, incluyendo los recargos legales.\nRecargos nocturnos y demás recargos legales que remuneren directamente el trabajo.\nCualquier otro pago cuya finalidad sea retribuir en forma directa y habitual el servicio prestado.\nParágrafo. Cuando exista duda sobre el carácter salarial de un pago, prevalecerá su naturaleza real y finalidad (si remunera o no el trabajo).\nSoporte normativo: CST, art. 127 (criterio de retribución directa del servicio) y principio de primacía de la realidad (Constitución Política, art. 53)."
+        },
+        {
+          "numero": "79",
+          "titulo": "Pagos que no constituyen salario",
+          "contenido": "No constituyen salario en SUPERCAN – Clínica Veterinaria, aquellos pagos que el trabajador recibe sin finalidad remuneratoria directa del servicio, tales como:\nSumas ocasionales y por mera liberalidad (bonificaciones ocasionales, gratificaciones no periódicas, etc.).\nPagos destinados a permitir el cabal desempeño de las funciones (gastos de representación cuando apliquen, medios de transporte estrictamente necesarios para la labor, elementos de trabajo, insumos, uniformes de dotación, EPP y otros análogos).\nPrestaciones sociales legales y extralegales (prima de servicios, cesantías, intereses a las cesantías, dotación, etc.).\nBeneficios o auxilios habituales u ocasionales pactados como no salariales, cuando (i) se acuerde expresamente por escrito su naturaleza no salarial y (ii) su finalidad no sea remunerar directamente el servicio (p. ej., auxilios de bienestar, alimentación ocasional asistencial, entre otros).\nViáticos accidentales y la parte de los viáticos permanentes destinada exclusivamente a transporte o representación, según las reglas legales.\nParágrafo. La naturaleza no salarial deberá constar por escrito en el contrato de trabajo, otrosí o documento interno debidamente suscrito.\nSoporte normativo: CST, art. 128 (pagos que no constituyen salario); Ley 50 de 1990 (reglas sobre viáticos y acuerdos no salariales dentro de los límites legales)."
+        },
+        {
+          "numero": "80",
+          "titulo": "Salario en especie",
+          "contenido": "En SUPERCAN – Clínica Veterinaria, se entiende por salario en especie la alimentación, habitación, vestuario u otros bienes o servicios que se suministren al trabajador o a su familia como parte de la retribución ordinaria del servicio, cuando su finalidad sea remunerar directamente el trabajo.\nValoración expresa: el salario en especie deberá valorarse expresamente en el contrato de trabajo u otrosí correspondiente. A falta de estipulación, su valor se determinará conforme a la ley.\nLímites legales:\nEn ningún caso el salario en especie podrá superar el cincuenta por ciento (50%) de la totalidad del salario.\nCuando el trabajador devengue SMLMV, el salario en especie no podrá exceder del treinta por ciento (30%) del salario.\nAplicación en SUPERCAN: por regla general, la remuneración será en dinero. Eventualmente, y según el cargo o condiciones de comisión, podrá pactarse salario en especie (p. ej., alimentación en comisión), respetando límites y dejando constancia escrita.\nDiferenciación con beneficios no salariales: cuando los bienes/servicios tengan finalidad asistencial o de bienestar y se pacte expresamente su carácter no salarial, se regirán por el artículo 128 del CST.\nSoporte normativo: CST, arts. 128 (no salarial) y 129 (salario en especie y límites)."
+        },
+        {
+          "numero": "81",
+          "titulo": "Política de fijación de salarios y rangos salariales en SUPERCAN",
+          "contenido": "En cumplimiento de la Constitución Política, del principio de “a trabajo de igual valor, salario igual”, y de la normativa sobre igualdad salarial y no discriminación, en SUPERCAN – Clínica Veterinaria los salarios y rangos salariales se determinan con base en criterios técnicos y objetivos, libres de cualquier discriminación.\nPrincipios rectores:\nRemuneración mínima, vital y móvil, proporcional a la cantidad y calidad de trabajo.\nb) Igualdad de oportunidades y prohibición de discriminación salarial.\nc) Remuneración basada en factores objetivos de diferenciación, que el empleador debe poder justificar.\nd) Transparencia interna en los criterios de asignación salarial.\nFactores objetivos para definir salario y rangos:\nNaturaleza y complejidad de la actividad (p. ej., apoyo clínico, atención al cliente, manejo de animales, procedimientos, administración).\nNivel de formación, calificación y certificaciones exigidas (incluyendo competencias técnicas en el sector veterinario).\nExperiencia previa relevante y competencias técnicas.\nGrado de responsabilidad, toma de decisiones, manejo de caja, inventarios, medicamentos/insumos, historias clínicas o información sensible.\nCondiciones de trabajo (carga, presión, atención de usuarios, riesgos ocupacionales).\nCondiciones de admisión al empleo y desempeño demostrado.\nSituación del mercado laboral y referencias externas.\nEquidad interna entre cargos de igual valor.\nProhibición de criterios discriminatorios: en ningún caso se utilizarán factores prohibidos (sexo, género, identidad de género, orientación sexual, embarazo, raza/etnia, religión, discapacidad, estado de salud, afiliación sindical, etc.).\nDocumentación: SUPERCAN contará con una tabla o estructura salarial interna por cargos/grupos de cargos, articulada con el Manual de Funciones y perfiles, actualizada periódicamente sin reducir salarios pactados salvo acuerdo escrito y sin desconocer derechos adquiridos.\nSoporte normativo: Constitución Política arts. 13 y 53; CST art. 143; Ley 1496 de 2011 (igualdad salarial y eliminación de discriminación); Ley 2466 de 2025 (principios y refuerzos en trabajo decente/no discriminación, según corresponda)."
+        },
+        {
+          "numero": "82",
+          "titulo": "Rangos salariales por cargo y actualización",
+          "contenido": "Rangos por cargo: para cada cargo en SUPERCAN se definirá un rango salarial (mínimo de ingreso y máximo de referencia), con base en los factores objetivos del artículo anterior y análisis del mercado.\nIngreso y progresión:\na) El salario de ingreso se fijará dentro del rango considerando formación, experiencia y factores objetivos.\nb) La progresión (aumentos) dependerá de: desempeño, adquisición de competencias/certificaciones, antigüedad (si se adopta como criterio), ajustes por costo de vida o decisiones empresariales.\nModificación de estructura: SUPERCAN podrá actualizar rangos atendiendo a ley, inflación, SMLMV, situación económica y mercado laboral, garantizando:\nno desmejorar el salario pactado sin acuerdo escrito,\nrespetar remuneración mínima legal y recargos,\ncoherencia con igualdad salarial.\nRegistro y trazabilidad: se llevará registro de salarios, rangos por cargo y movimientos, que permita demostrar aplicación de criterios objetivos y ausencia de discriminación.\nSoporte normativo: CST art. 132 (salarios y formas), art. 143 (igualdad salarial); Ley 1496 de 2011 (registros/criterios de igualdad salarial); Constitución Política art. 53."
+        },
+        {
+          "numero": "83",
+          "titulo": "Igualdad salarial y justificación de diferencias",
+          "contenido": "En SUPERCAN – Clínica Veterinaria se aplica el principio de que, a trabajo de igual valor, en puesto, jornada y condiciones de eficiencia iguales, debe corresponder salario igual, incluyendo todos los elementos que conforman la remuneración.\nPresunción de discriminación: toda diferencia salarial entre trabajadores con funciones equivalentes o de igual valor se presumirá injustificada cuando no exista soporte en factores objetivos de diferenciación. Corresponderá al empleador demostrar dichos factores.\nObligación de corrección: si se identifica brecha salarial injustificada, SUPERCAN adoptará medidas para corregirla.\nRegistro desagregado: SUPERCAN llevará registro de perfiles de cargos, funciones y remuneración desagregado, como soporte de la política de igualdad salarial.\nSoporte normativo: CST art. 143 (modificado por Ley 1496 de 2011); Ley 1496 de 2011; Constitución Política arts. 13 y 53."
+        },
+        {
+          "numero": "84",
+          "titulo": "Honorarios y otras formas de remuneración no laboral",
+          "contenido": "Honorarios: cuando SUPERCAN vincule personas naturales mediante contratos civiles o comerciales (prestación de servicios) sin subordinación, sin sujeción a jornada ni órdenes propias de contrato de trabajo, la remuneración se denominará honorarios y se regirá por normas civiles/comerciales, sin perjuicio de lo que determinen autoridades cuando verifiquen la realidad de la relación.\nLímites del RIT frente a honorarios: quienes se vinculen por honorarios no estarán sometidos a este RIT, salvo en lo relativo a normas de SG-SST, bioseguridad, confidencialidad, protección de datos y disposiciones de cumplimiento general expresamente extensivas.\nProhibición de desnaturalización: SUPERCAN no utilizará contratos civiles/comerciales para encubrir relaciones laborales; si concurren los elementos del contrato de trabajo, prevalecerá la realidad sobre las formas.\nSoporte normativo: CST arts. 22 y 23 (contrato y elementos); Constitución Política art. 53 (primacía de la realidad); Decreto 1072 de 2015 (deber de coordinación y control preventivo en SST con contratistas, según aplique); Ley 1581 de 2012 (protección de datos personales)."
+        }
+      ]
+    },
+    {
+      "titulo": "CAPÍTULO IX",
+      "articulos": [
+        {
+          "numero": "94",
+          "titulo": "Finalidad del presente capítulo",
+          "contenido": "PRESCRIPCIONES DE ORDEN: OBLIGACIONES Y PROHIBICIONES DEL EMPLEADOR Y DE LOS TRABAJADORES\nSUPERCAN – CLÍNICA VETERINARIA (Persona Natural) – Pasto, Nariño\nLas prescripciones de orden contenidas en este capítulo tienen por finalidad:\nEstablecer de manera clara las obligaciones y prohibiciones del empleador y de los trabajadores de SUPERCAN – Clínica Veterinaria.\nGarantizar un ambiente de trabajo respetuoso, seguro, digno y libre de toda forma de discriminación, acoso, violencia o maltrato.\nFacilitar la aplicación de las normas disciplinarias previstas en este Reglamento, en la ley laboral y en las políticas internas de SUPERCAN.\nEstas prescripciones son complementarias del Código Sustantivo del Trabajo (CST), la Ley 2466 de 2025 y demás normas aplicables.\nSoporte normativo: CST (RIT: arts. 104, 108 y concordantes); Ley 2466 de 2025 (principios y ajustes al marco laboral).\nSECCIÓN I\nOBLIGACIONES Y PROHIBICIONES DEL EMPLEADOR"
+        },
+        {
+          "numero": "95",
+          "titulo": "Obligaciones generales del empleador (SUPERCAN)",
+          "contenido": "Son obligaciones de SUPERCAN – Clínica Veterinaria, además de las que señalen la ley y el contrato de trabajo:\nPagar puntualmente la remuneración pactada (salario, recargos, horas extras y demás conceptos), respetando el SMLMV y las normas vigentes.\nAfiliar y efectuar oportunamente los aportes al Sistema de Seguridad Social Integral (salud, pensión y riesgos laborales) y realizar aportes parafiscales cuando haya lugar.\nSuministrar oportunamente los Elementos de Protección Personal (EPP) y los equipos necesarios para el desempeño seguro (p. ej., guantes, tapabocas, gafas, delantales, contenedores para cortopunzantes, etc.), conforme al SG-SST.\nConceder descansos, permisos, licencias y vacaciones en los términos previstos por la ley y este Reglamento.\nRespetar la dignidad, intimidad, honra y buen nombre de los trabajadores, absteniéndose de prácticas humillantes o discriminatorias.\nExpedir certificados laborales y constancias razonables relacionadas con el vínculo laboral.\nCumplir y hacer cumplir el Reglamento Interno, las políticas de SG-SST, convivencia laboral, bioseguridad, confidencialidad y protección de datos personales.\nEntregar copia del contrato y otrosíes, y facilitar acceso al Reglamento (incluida su disponibilidad en medio digital cuando aplique).\nGarantizar igualdad de trato y oportunidades en ingreso, permanencia, formación y promoción.\nAtender con diligencia y confidencialidad quejas, solicitudes o reclamaciones del personal, especialmente las relacionadas con condiciones laborales, SST y convivencia.\nParágrafo (operación clínica): SUPERCAN podrá establecer lineamientos operativos para áreas/servicios (consulta, hospitalización, quirófano/procedimientos, peluquería si existe, recepción, farmacia/ventas, aseo y desinfección), sin desconocer derechos mínimos ni obligaciones legales.\nSoporte normativo: CST art. 57 (obligaciones del empleador) y concordantes; Ley 1496 de 2011 (igualdad salarial/no discriminación); Ley 1581 de 2012 (datos personales); Ley 2466 de 2025 (ajustes al marco laboral y RIT)."
+        },
+        {
+          "numero": "96",
+          "titulo": "Obligaciones del empleador en materia de Seguridad y Salud en el Trabajo (SG-SST)",
+          "contenido": "SUPERCAN se compromete a:\nImplementar, mantener y mejorar de manera continua el SG-SST conforme a la normatividad vigente.\nIdentificar peligros, evaluar y valorar riesgos propios de la clínica veterinaria, incluyendo, entre otros:\nmanejo y sujeción de animales (mordeduras, arañazos, golpes),\nriesgo biológico/zoonótico, fluidos, desinfección y asepsia,\ncortopunzantes (agujas, bisturí),\nquímicos (desinfectantes, medicamentos),\nbiomecánico (posturas, levantamiento/movilización de animales),\nlocativo (pisos húmedos, orden y aseo),\neléctrico/equipos,\npsicosocial (atención al público, carga mental),\ny establecer controles (procedimientos seguros, EPP, capacitación, señalización, etc.).\nCapacitar y entrenar al personal en prevención de riesgos, bioseguridad, manipulación segura de animales, control de infecciones, manejo de residuos (incluidos biosanitarios y cortopunzantes), ergonomía, pausas activas y emergencias.\nInvestigar incidentes, accidentes de trabajo y presuntas enfermedades laborales y aplicar acciones correctivas/preventivas.\nPromover cultura de autocuidado, reporte de condiciones inseguras y participación de los trabajadores.\nProteger al trabajador de represalias por reportar riesgos/accidentes/enfermedades laborales o por negarse de buena fe a ejecutar una tarea con peligro grave e inminente, activando el procedimiento interno.\nSoporte normativo: Decreto 1072 de 2015 (SG-SST, en especial arts. 2.2.4.6.8 y concordantes); Ley 1562 de 2012 (SGRL); Resolución 0312 de 2019 (Estándares Mínimos SG-SST)."
+        },
+        {
+          "numero": "97",
+          "titulo": "Prohibiciones del empleador",
+          "contenido": "Queda prohibido al empleador (SUPERCAN) y a quien ejerza jefatura o supervisión:\nEjecutar, ordenar o tolerar acoso laboral, acoso sexual, violencia, maltrato, amenazas u hostigamiento.\nDiscriminar directa o indirectamente por razones protegidas (sexo, género, orientación sexual, identidad de género, raza/origen étnico, edad, religión, opinión política, estado civil, condición de salud o discapacidad, embarazo/lactancia, afiliación sindical u otras).\nRealizar descuentos no autorizados por ley, decisión judicial o autorización válida del trabajador en los términos permitidos.\nExigir compras a la empresa o a terceros específicos como condición para mantener el empleo o mejorar condiciones.\nRetener documentos personales del trabajador.\nImponer servicios ajenos al contrato, superiores a sus fuerzas o contrarios a la dignidad y la ley.\nObstaculizar el ejercicio de derechos de asociación o participación en mecanismos de representación legalmente permitidos.\nUtilizar contratos civiles/comerciales para desnaturalizar una relación laboral cuando en la realidad exista subordinación y demás elementos del contrato de trabajo.\nPermitir o fomentar consumo de alcohol o sustancias psicoactivas en horario de trabajo o en actividades del servicio (salvo situaciones excepcionales estrictamente reguladas y compatibles con SG-SST).\nRevelar injustificadamente información reservada/confidencial de trabajadores, clientes o de la clínica (incluyendo datos personales y datos sensibles).\nSoporte normativo: CST art. 59 (prohibiciones del empleador) y concordantes; Ley 1010 de 2006 (acoso laboral); Ley 2365 de 2024 (acoso sexual); Ley 1581 de 2012 (protección de datos); Constitución Política art. 13 (igualdad) y 53 (principios laborales).\nSECCIÓN II\nOBLIGACIONES Y PROHIBICIONES DE LOS TRABAJADORES"
+        },
+        {
+          "numero": "98",
+          "titulo": "Obligaciones generales de los trabajadores",
+          "contenido": "Son obligaciones de los trabajadores de SUPERCAN, además de las previstas en el CST, el contrato y este Reglamento:\nCumplir funciones con diligencia, eficiencia y buena fe, siguiendo instrucciones legítimas.\nMantener trato respetuoso con compañeros, superiores, clientes/usuarios, proveedores y visitantes.\nGuardar confidencialidad sobre información a la que accedan por razón del cargo (historias clínicas veterinarias, datos de propietarios, inventarios, información comercial, claves, etc.), incluso después de terminada la relación laboral.\nCumplir horario, registrar de forma fiel ingresos/salidas, evitar tardanzas y ausencias sin autorización.\nConocer y acatar el Reglamento y políticas internas (SG-SST, bioseguridad, datos personales, convivencia, etc.).\nCuidar bienes y equipos (instrumental, equipos médicos, neveras, sistemas, medicamentos, etc.) y reportar daños o pérdidas.\nInformar oportunamente cambios relevantes necesarios para afiliación/seguridad social/contacto y, cuando aplique, restricciones médicas o condiciones que afecten la capacidad funcional (sin vulnerar confidencialidad clínica).\nMantener presentación personal e higiene acorde con la operación veterinaria y las políticas internas (bata/uniforme, aseo, uso de EPP cuando aplique).\nCumplir medidas de seguridad de la información (contraseñas, accesos, uso de equipos, no instalar software no autorizado).\nColaborar en la mejora continua del servicio, la calidad, la seguridad y el cumplimiento normativo.\nSoporte normativo: CST art. 58 (obligaciones del trabajador) y concordantes; Ley 1581 de 2012 (confidencialidad y tratamiento de datos); Constitución art. 53 (buena fe y principios)."
+        },
+        {
+          "numero": "99",
+          "titulo": "Obligaciones específicas de los trabajadores en SG-SST",
+          "contenido": "Son obligaciones específicas del trabajador en materia de SST:\nCumplir normas e instrucciones del SG-SST y procedimientos seguros (bioseguridad, manejo animal, residuos, etc.).\nUsar y cuidar adecuadamente los EPP suministrados y reportar deterioro o necesidad de reposición.\nParticipar en capacitaciones, entrenamientos, simulacros y actividades de promoción y prevención.\nReportar de inmediato actos/condiciones inseguras, incidentes, accidentes de trabajo y presuntas enfermedades laborales.\nAbstenerse de acciones temerarias o contrarias a los procedimientos que pongan en riesgo su vida, la de terceros o la integridad de bienes/animales.\nAsistir a evaluaciones médicas ocupacionales en los casos y condiciones legalmente aplicables.\nColaborar con el COPASST o Vigía de SST (según corresponda por tamaño de empresa) y con brigadas o responsables de emergencias.\nSoporte normativo: Decreto 1072 de 2015 (art. 2.2.4.6.10 y concordantes); Resolución 0312 de 2019 (Estándares Mínimos SG-SST); Ley 1562 de 2012."
+        },
+        {
+          "numero": "100",
+          "titulo": "Prohibiciones a los trabajadores",
+          "contenido": "Queda prohibido a los trabajadores de SUPERCAN:\nPresentarse o permanecer en el trabajo bajo efectos de alcohol o sustancias psicoactivas, o consumirlas durante la jornada o en actividades relacionadas con el servicio.\nPortar armas u objetos peligrosos sin autorización expresa y legal.\nAbandonar el puesto sin autorización, salvo fuerza mayor o riesgo grave e inminente (que debe reportarse inmediatamente).\nRealizar conductas de acoso laboral, acoso sexual, discriminación, violencia física/verbal u hostigamiento.\nUsar equipos, sistemas, correos o redes de la clínica para fines indebidos o ilícitos, o para difundir contenido ofensivo/discriminatorio.\nSustraer, ocultar o disponer indebidamente de dinero, medicamentos, insumos, inventarios, bienes o documentos de la clínica o de terceros.\nSolicitar o aceptar dádivas/regalos de proveedores o terceros para favorecer decisiones en perjuicio de la clínica.\nFalsificar, alterar u omitir información en registros, historias, turnos, incapacidades, soportes o documentos laborales.\nDivulgar sin autorización información confidencial o datos personales/sensibles.\nDesobedecer injustificadamente órdenes legítimas relacionadas con el servicio que no sean contrarias a la ley, moral, SG-SST o este Reglamento.\nEjecutar actos que afecten gravemente el buen nombre de SUPERCAN ante clientes, autoridades o comunidad, sin perjuicio de la libertad de expresión dentro de límites legales.\nSoporte normativo: CST art. 60 (prohibiciones a los trabajadores) y concordantes; Ley 1010 de 2006; Ley 2365 de 2024; Ley 1581 de 2012; Decreto 1072 de 2015 (SST)."
+        },
+        {
+          "numero": "101",
+          "titulo": "Deber de acatamiento y consecuencias disciplinarias",
+          "contenido": "Todos los trabajadores están obligados a acatar las prescripciones de orden de este capítulo. El incumplimiento de obligaciones o la realización de prohibiciones podrá constituir falta leve, grave o gravísima, y dará lugar a la aplicación del procedimiento disciplinario y sanciones previstas en el capítulo correspondiente de este Reglamento, garantizando el debido proceso. Lo anterior, sin perjuicio de acciones civiles, penales o administrativas a que haya lugar.\nSoporte normativo: CST (régimen disciplinario dentro del RIT, arts. 108 y concordantes); Constitución art. 29 (debido proceso); Ley 2466 de 2025 (refuerzos procedimentales y garantías en el marco laboral)."
+        }
+      ]
+    },
+    {
+      "titulo": "CAPÍTULO X",
+      "articulos": [
+        {
+          "numero": "102",
+          "titulo": "Finalidad del régimen disciplinario.",
+          "contenido": "FALTAS DISCIPLINARIAS Y ESCALA DE SANCIONES\n(SUPERCAN – Clínica Veterinaria, Pasto)\nEl presente capítulo define las faltas disciplinarias y la escala de sanciones aplicables en SUPERCAN (persona natural) – Clínica Veterinaria, con el propósito de:\nProteger la organización, la convivencia, la seguridad y salud en el trabajo, la bioseguridad y la disciplina laboral.\nGarantizar el debido proceso del trabajador y el respeto de sus derechos fundamentales.\nEstablecer reglas claras, proporcionales y objetivas para la imposición de medidas disciplinarias.\nLo aquí previsto se entiende complementario del Código Sustantivo del Trabajo (CST), la Ley 2466 de 2025 y demás normas laborales vigentes.\nSoporte normativo: CST (contenido del RIT) y régimen de sanciones (arts. 108, 111–115, en especial art. 115 modificado), y Ley 2466 de 2025."
+        },
+        {
+          "numero": "103",
+          "titulo": "Principios de aplicación.",
+          "contenido": "La imposición de sanciones disciplinarias en SUPERCAN se regirá por los siguientes principios:\nLegalidad y tipicidad: la conducta debe estar prevista como falta en la ley, el contrato, el Reglamento Interno o las políticas internas debidamente divulgadas.\nDebido proceso y derecho de defensa: toda sanción exige actuación disciplinaria con garantía de defensa, posibilidad de aportar/controvertir pruebas y decisión motivada.\nProporcionalidad: la sanción debe guardar relación con la gravedad de la falta, su reiteración y sus consecuencias.\nGradualidad: se privilegiará la corrección progresiva, salvo faltas graves o gravísimas.\nInmediatez razonable: el empleador actuará dentro de un plazo razonable desde que tenga conocimiento del hecho, según las circunstancias.\nNo doble sanción: un mismo hecho no podrá sancionarse dos veces disciplinariamente, sin perjuicio de otras acciones legales que procedan.\nSoporte normativo: Constitución (debido proceso), y CST (respeto a dignidad; sanciones previstas; procedimiento disciplinario del art. 115 modificado por Ley 2466)."
+        },
+        {
+          "numero": "104",
+          "titulo": "Clasificación de faltas.",
+          "contenido": "Para efectos del presente Reglamento, las faltas disciplinarias se clasifican en:\nFaltas leves\nFaltas graves\nFaltas gravísimas\nLa clasificación dependerá de la naturaleza de la conducta, la afectación al servicio, el perjuicio a SUPERCAN, a compañeros, a clientes/usuarios (tenedores de mascotas) o a terceros, la intencionalidad, la reincidencia y el riesgo generado, especialmente en bioseguridad, SG-SST, manejo de medicamentos/insumos veterinarios, historias clínicas y activos.\nSoporte normativo: CST (contenido del RIT y previsión de faltas/sanciones).\nSECCIÓN I – FALTAS LEVES"
+        },
+        {
+          "numero": "105",
+          "titulo": "Faltas leves.",
+          "contenido": "Se consideran faltas leves, entre otras, las siguientes conductas, siempre que no se configuren como graves o gravísimas por reincidencia o por el impacto generado:\nLlegar tarde de manera ocasional y sin justificación.\nIncumplir de forma aislada normas internas de presentación personal o protocolos de atención al cliente/usuario, sin afectar gravemente el servicio.\nOmitir el registro de ingreso o salida por descuido, cuando exista posibilidad de verificación y no haya intención de alterar la jornada.\nNo atender oportunamente instrucciones de trabajo por negligencia leve, sin daño o perjuicio relevante.\nRealizar uso personal moderado de herramientas corporativas (internet/correo) cuando no afecte la productividad ni comprometa seguridad de la información.\nNo portar o no usar temporalmente EPP en situaciones de bajo riesgo, sin que ello genere un peligro grave o inminente.\nNo asistir a una capacitación interna sin causa justificada, cuando pueda reprogramarse y no sea crítica para la operación.\nParágrafo. La reincidencia, la desobediencia reiterada, el perjuicio o el riesgo generado podrán convertir estas conductas en falta grave.\nSoporte normativo: CST (RIT y sanciones deben estar previstas; límites y garantías del procedimiento disciplinario).\nSECCIÓN II – FALTAS GRAVES"
+        },
+        {
+          "numero": "106",
+          "titulo": "Faltas graves.",
+          "contenido": "Se consideran faltas graves, entre otras, las siguientes:\nReincidir en faltas leves, pese a llamados de atención o medidas correctivas previas.\nAusentarse del trabajo sin autorización o sin causa justificada, por un (1) día o fracción significativa, afectando la operación.\nIncumplir de manera relevante el horario de trabajo o la jornada pactada, alterando la continuidad del servicio.\nNegarse injustificadamente a cumplir instrucciones legítimas relacionadas con el servicio.\nTratar de forma irrespetuosa o agresiva a compañeros, superiores, clientes/usuarios, proveedores o visitantes, afectando la convivencia o la imagen del establecimiento.\nVulnerar protocolos de seguridad de la información (por ejemplo, compartir contraseñas, permitir accesos no autorizados, extraer información sin permiso).\nUtilizar bienes o recursos de SUPERCAN para fines particulares que generen perjuicio o afecten la operación (equipos, instrumental, medicamentos/insumos, caja, etc.).\nRetirar medicamentos, insumos, instrumental o elementos de SUPERCAN sin autorización, cuando no configure apropiación dolosa (sin perjuicio de la investigación).\nIncumplir normas del SG-SST y/o bioseguridad que generen riesgo real para sí mismo, compañeros, clientes/usuarios o terceros, aun cuando no ocurra accidente.\nPresentarse al trabajo con signos evidentes de alicoramiento o bajo sospecha razonable de consumo que afecte la capacidad, sin llegar al estado de embriaguez manifiesta (esto se evaluará con el procedimiento interno y el marco legal aplicable).\nParágrafo. En actividades críticas propias de una clínica veterinaria (p. ej., asistencia en procedimientos, manejo de anestesia/sedación, administración/dispensación de medicamentos, manejo de residuos biosanitarios y cortopunzantes, atención de animales potencialmente agresivos, manejo de caja y custodia de historias clínicas/datos), la infracción de controles podrá considerarse grave por el riesgo de seguridad, sanitario, patrimonial y reputacional.\nSoporte normativo: CST (régimen disciplinario, límites y procedimiento del art. 115 modificado); SG-SST (obligaciones en SST del empleador y del trabajador en el Decreto 1072/2015); Estándares mínimos (Res. 0312/2019).\nSECCIÓN III – FALTAS GRAVÍSIMAS"
+        },
+        {
+          "numero": "107",
+          "titulo": "Faltas gravísimas.",
+          "contenido": "Se consideran faltas gravísimas, entre otras, las siguientes:\nHurto, fraude, apropiación o disposición indebida de dinero, medicamentos, productos, insumos, instrumental, equipos o bienes de SUPERCAN, clientes/usuarios o terceros.\nFalsificación, alteración u ocultamiento intencional de información, documentos, registros de jornada, reportes, soportes o evidencias (incluyendo, cuando aplique, registros de atención, inventarios, facturación, etc.).\nDivulgación o comercialización de información confidencial o datos personales de la empresa, clientes/usuarios o trabajadores, sin autorización y con afectación relevante.\nAgresión física, amenazas graves o actos de violencia dentro del lugar de trabajo o en desarrollo de funciones.\nAcoso laboral o acoso sexual comprobado, o conductas reiteradas que constituyan hostigamiento o discriminación.\nPresentarse al trabajo en estado de embriaguez o bajo efectos de sustancias psicoactivas, o consumirlas durante la jornada, cuando ello comprometa gravemente la seguridad, la convivencia, la operación o la imagen del establecimiento.\nDestrucción intencional de bienes, documentos o información corporativa.\nPortar armas sin autorización o realizar conductas que pongan en peligro grave la vida o integridad de personas.\nConductas que generen un riesgo grave e inminente para la vida o salud de terceros o del propio trabajador, por violación deliberada de normas de seguridad.\nParágrafo. Estas faltas pueden constituir justa causa de terminación del contrato de trabajo, conforme al artículo 62 del CST, según el caso y el resultado del procedimiento disciplinario.\nSoporte normativo: CST (justa causa art. 62; garantías y procedimiento del art. 115 modificado); acoso laboral (Ley 1010/2006) y acoso sexual (Ley 2365/2024).\n(Adición necesaria para que el capítulo cumpla su título)"
+        },
+        {
+          "numero": "108",
+          "titulo": "Escala de sanciones y límites legales.",
+          "contenido": "En SUPERCAN, las sanciones disciplinarias se aplicarán según la gravedad de la falta, la reincidencia y el impacto, y podrán consistir en:\nLlamado de atención verbal (medida correctiva no pecuniaria).\nAmonestación escrita (con constancia en el expediente laboral).\nMulta (cuando proceda y esté prevista), dentro de los límites legales.\nSuspensión disciplinaria (cuando proceda y esté prevista), dentro de los límites legales.\nTerminación del contrato con justa causa, cuando se configure y se garantice el procedimiento aplicable.\nParágrafo 1. Ninguna sanción se impondrá si no está prevista en la ley o en este Reglamento, y siempre se respetará el trato digno del trabajador.\nParágrafo 2. Toda sanción se tramitará garantizando el procedimiento disciplinario vigente (incluyendo comunicación de cargos, oportunidad de defensa y decisión motivada, conforme a las reglas legales aplicables).\nSoporte normativo: CST (límites de multa/suspensión; respeto a dignidad; sanciones solo si están previstas; procedimiento del art. 115 modificado por Ley 2466/2025)."
+        }
+      ]
+    },
+    {
+      "titulo": "CAPÍTULO X",
+      "articulos": [
+        {
+          "numero": "102",
+          "titulo": "Finalidad del régimen disciplinario.",
+          "contenido": "FALTAS DISCIPLINARIAS Y ESCALA DE SANCIONES\nSUPERCAN – CLÍNICA VETERINARIA (Persona Natural) – Pasto, Nariño\nEl presente capítulo define las faltas disciplinarias y la escala de sanciones aplicables en SUPERCAN – Clínica Veterinaria, con el propósito de:\nProteger la organización, la convivencia, la seguridad y salud en el trabajo, la bioseguridad y la disciplina laboral.\nGarantizar el debido proceso del trabajador y el respeto de sus derechos fundamentales.\nEstablecer reglas claras, proporcionales y objetivas para la imposición de medidas disciplinarias.\nLo aquí previsto se entiende complementario del Código Sustantivo del Trabajo (CST), la Ley 2466 de 2025 y demás normas laborales vigentes.\nSoporte normativo: Constitución Política (C.P.), art. 29; CST (Reglamento Interno de Trabajo – contenido mínimo y sanciones); CST art. 115 (procedimiento disciplinario, modificado por Ley 2466 de 2025)."
+        },
+        {
+          "numero": "103",
+          "titulo": "Principios de aplicación.",
+          "contenido": "La imposición de sanciones disciplinarias en SUPERCAN – Clínica Veterinaria se regirá por los siguientes principios:\nLegalidad y tipicidad: la conducta debe estar prevista como falta en la ley, el contrato, el Reglamento Interno o políticas internas debidamente divulgadas.\nDebido proceso y derecho de defensa: toda sanción exige escucha previa del trabajador, posibilidad de aportar/solicitar pruebas y decisión motivada.\nProporcionalidad: la sanción debe guardar relación con la gravedad de la falta, su reiteración y sus consecuencias.\nGradualidad: se privilegiará la corrección progresiva, salvo faltas graves o gravísimas.\nInmediatez razonable: SUPERCAN actuará dentro de un plazo razonable desde que tenga conocimiento del hecho, según las circunstancias.\nNo doble sanción: un mismo hecho no podrá sancionarse dos veces disciplinariamente, sin perjuicio de otras acciones legales.\nSoporte normativo: C.P., art. 29 y art. 53; CST art. 115 (modificado por Ley 2466 de 2025)."
+        },
+        {
+          "numero": "104",
+          "titulo": "Clasificación de faltas.",
+          "contenido": "Para efectos del presente Reglamento, las faltas disciplinarias se clasifican en:\nFaltas leves.\nFaltas graves.\nFaltas gravísimas.\nLa clasificación dependerá de la naturaleza de la conducta, la afectación al servicio, el perjuicio a SUPERCAN, a compañeros o a terceros, la intencionalidad, la reincidencia y el riesgo generado, especialmente en materia de bioseguridad, SG-SST, manejo de información, medicamentos/insumos, caja e inventarios.\nSoporte normativo: CST (Reglamento Interno: previsión de obligaciones, prohibiciones, faltas y sanciones); C.P., art. 53 (primacía de la realidad y principios mínimos).\nSECCIÓN I\nFALTAS LEVES"
+        },
+        {
+          "numero": "105",
+          "titulo": "Faltas leves.",
+          "contenido": "Se consideran faltas leves, entre otras, las siguientes conductas, siempre que no se configuren como graves o gravísimas por reincidencia o por el impacto generado:\nLlegar tarde de manera ocasional y sin justificación.\nIncumplir de forma aislada normas de presentación personal o protocolos básicos de atención (recepción, trato al usuario/cliente), sin afectar gravemente el servicio.\nOmitir el registro de ingreso o salida por descuido, cuando exista posibilidad de verificación y no haya intención de alterar la jornada.\nNo atender oportunamente instrucciones de trabajo por negligencia leve, sin daño o perjuicio relevante.\nRealizar uso personal moderado de herramientas corporativas (internet/correo) cuando no afecte productividad ni comprometa seguridad de la información.\nNo portar o no usar temporalmente EPP en situaciones de bajo riesgo, sin que ello genere peligro grave o inminente.\nNo asistir a una capacitación interna no crítica sin causa justificada, cuando sea posible reprogramación.\nParágrafo. La reincidencia, la desobediencia reiterada, el perjuicio o el riesgo generado podrán convertir estas conductas en falta grave.\nSoporte normativo: CST art. 58 (obligaciones del trabajador) y art. 60 (prohibiciones); Decreto 1072 de 2015 (obligaciones del trabajador en SST) y Resolución 0312 de 2019 (capacitaciones/gestión preventiva según estándares aplicables).\nSECCIÓN II\nFALTAS GRAVES"
+        },
+        {
+          "numero": "106",
+          "titulo": "Faltas graves.",
+          "contenido": "Se consideran faltas graves, entre otras, las siguientes:\nReincidir en faltas leves, pese a llamados de atención o medidas correctivas previas.\nAusentarse del trabajo sin autorización o sin causa justificada, por un (1) día o fracción significativa, afectando la operación.\nIncumplir de manera relevante el horario o la jornada pactada, alterando continuidad del servicio.\nNegarse injustificadamente a cumplir instrucciones legítimas relacionadas con el servicio.\nTratar de forma irrespetuosa o agresiva a compañeros, superiores, clientes/usuarios, proveedores o visitantes, afectando convivencia o imagen del establecimiento.\nVulnerar protocolos de seguridad de la información (compartir contraseñas, permitir accesos no autorizados, extraer información sin permiso).\nUtilizar bienes o recursos de SUPERCAN para fines particulares que generen perjuicio o afecten la operación (equipos, instrumental, medicamentos/insumos, caja, etc.).\nRetirar medicamentos, insumos, instrumental o elementos de SUPERCAN sin autorización, cuando no configure apropiación dolosa (sin perjuicio de la investigación).\nIncumplir normas del SG-SST o bioseguridad que generen riesgo real para sí mismo, compañeros, clientes/usuarios o terceros, aun cuando no ocurra accidente.\nPresentarse al trabajo con signos evidentes de alicoramiento o bajo sospecha razonable de consumo que afecte la capacidad, sin llegar a estado de embriaguez manifiesta (se evaluará con el procedimiento interno y el marco legal aplicable).\nParágrafo (actividades críticas clínicas). En actividades críticas propias de una clínica veterinaria (p. ej., asistencia en procedimientos, manejo de anestesia/sedación, administración/dispensación de medicamentos, manejo de residuos biosanitarios y cortopunzantes, sujeción de animales potencialmente agresivos, manejo de caja e inventarios, custodia de historias clínicas/datos), la infracción de controles podrá considerarse grave por el riesgo sanitario, físico, patrimonial y reputacional.\nSoporte normativo: CST arts. 58 y 60; CST art. 62 (justas causas relacionadas con incumplimientos graves, según el caso); Decreto 1072 de 2015 (SG-SST); Resolución 0312 de 2019.\nSECCIÓN III\nFALTAS GRAVÍSIMAS"
+        },
+        {
+          "numero": "107",
+          "titulo": "Faltas gravísimas.",
+          "contenido": "Se consideran faltas gravísimas, entre otras, las siguientes:\nHurto, fraude, apropiación o disposición indebida de dinero, medicamentos, productos, inventarios, equipos o bienes de SUPERCAN, clientes/usuarios o terceros.\nFalsificación, alteración u ocultamiento intencional de información, documentos, registros de jornada, reportes, soportes o evidencias (incluida facturación, inventarios, etc.).\nDivulgación o comercialización de información confidencial o datos personales de SUPERCAN, clientes/usuarios o trabajadores, sin autorización y con afectación relevante.\nAgresión física, amenazas graves o actos de violencia dentro del lugar de trabajo o en desarrollo de funciones.\nAcoso laboral o acoso sexual comprobado, o conductas reiteradas que constituyan hostigamiento o discriminación.\nPresentarse al trabajo en estado de embriaguez o bajo efectos de sustancias psicoactivas, o consumirlas durante la jornada, cuando ello comprometa gravemente la seguridad, convivencia, operación o imagen del establecimiento.\nDestrucción intencional de bienes, documentos o información corporativa.\nPortar armas sin autorización o realizar conductas que pongan en peligro grave la vida o integridad de personas.\nConductas que generen riesgo grave e inminente para la vida o salud de terceros o del propio trabajador, por violación deliberada de normas de seguridad/bioseguridad.\nParágrafo. Estas faltas pueden constituir justa causa de terminación del contrato de trabajo, conforme al artículo 62 del CST, según el caso y el resultado del procedimiento disciplinario.\nSoporte normativo: CST art. 62 (justas causas); Ley 1010 de 2006 (acoso laboral); Ley 2365 de 2024 (medidas frente al acoso sexual y su prevención); Ley 1581 de 2012 (protección de datos personales); C.P., art. 29.\nSECCIÓN IV\nESCALA DE SANCIONES"
+        },
+        {
+          "numero": "108",
+          "titulo": "Medidas correctivas y sanciones.",
+          "contenido": "Según la gravedad de la falta y de conformidad con la ley y el presente Reglamento, SUPERCAN – Clínica Veterinaria podrá aplicar, entre otras, las siguientes medidas:\nLlamado de atención verbal (con registro interno cuando se estime necesario).\nLlamado de atención escrito.\nPlan de mejora o compromiso de comportamiento/gestión (con seguimiento).\nSuspensión disciplinaria sin derecho a salario durante el tiempo de suspensión, dentro de los límites permitidos por el CST.\nTerminación del contrato de trabajo con justa causa, cuando la conducta y las pruebas lo justifiquen, conforme al artículo 62 del CST.\nParágrafo. SUPERCAN podrá optar por medidas pedagógicas o correctivas previas cuando la falta lo permita, sin que ello implique renuncia a su facultad disciplinaria.\nSoporte normativo: CST (sanciones disciplinarias y límites); CST art. 62 (terminación con justa causa); CST art. 115 (procedimiento disciplinario, modificado por Ley 2466 de 2025)."
+        },
+        {
+          "numero": "109",
+          "titulo": "Criterios para graduar la sanción.",
+          "contenido": "Para determinar la sanción, SUPERCAN evaluará, entre otros:\nGravedad objetiva de la conducta.\nReincidencia o antecedentes disciplinarios.\nIntencionalidad o dolo.\nDaño o perjuicio causado (económico, operativo, reputacional).\nRiesgo generado para la seguridad y salud en el trabajo y bioseguridad.\nCargo del trabajador y nivel de responsabilidad (manejo de caja, inventarios, medicamentos, información sensible, etc.).\nColaboración del trabajador en el esclarecimiento de los hechos.\nSoporte normativo: C.P., art. 29 (debido proceso) y art. 53 (principios); CST art. 115 (modificado por Ley 2466 de 2025).\nSECCIÓN V\nPROCEDIMIENTO DISCIPLINARIO"
+        },
+        {
+          "numero": "110",
+          "titulo": "Procedimiento disciplinario mínimo.",
+          "contenido": "Para la imposición de sanciones, SUPERCAN garantizará como mínimo:\nComunicación de los hechos al trabajador (por escrito cuando corresponda).\nCitación a descargos con oportunidad razonable.\nDerecho a ser escuchado, aportar pruebas y controvertir las existentes.\nDecisión motivada y notificada al trabajador.\nArchivo y trazabilidad del proceso disciplinario.\nParágrafo 1 (medidas preventivas). Cuando la conducta sea presuntamente constitutiva de falta gravísima o causal de terminación, SUPERCAN podrá adoptar medidas preventivas de control (por ejemplo, retiro temporal de funciones sensibles como caja, inventarios, acceso a historias clínicas, medicamentos), sin que ello constituya sanción anticipada.\nParágrafo 2 (garantías del debido proceso). Todo procedimiento disciplinario se regirá por las garantías mínimas del debido proceso: presunción de inocencia, derecho de defensa y contradicción, posibilidad de asistencia de apoderado o representante sindical cuando aplique, decisión proporcional y motivada, y en caso de duda razonable, decisión favorable al trabajador conforme a los principios de favorabilidad.\nSoporte normativo: C.P., art. 29; CST art. 115 (modificado por Ley 2466 de 2025); C.P., art. 53 (favorabilidad)."
+        },
+        {
+          "numero": "111",
+          "titulo": "Concurrencia con otras acciones.",
+          "contenido": "La aplicación de sanciones disciplinarias internas no impide que SUPERCAN, cuando haya lugar:\nPresente denuncias penales.\nInicie acciones civiles de responsabilidad.\nAdelante reportes o acciones administrativas ante autoridades competentes.\nTodo lo anterior, sin perjuicio de las obligaciones laborales y del respeto de los derechos del trabajador.\nSoporte normativo: C.P., art. 29; CST (autonomía del régimen disciplinario interno y coexistencia con acciones legales); CST art. 62 (cuando proceda terminación con justa causa).\nSECCIÓN VI\nPROCEDIMIENTO DISCIPLINARIO INTEGRAL, TÉRMINOS, NOTIFICACIONES, PRUEBAS, GRADUALIDAD, REINCIDENCIA Y MEDIDAS PREVENTIVAS"
+        },
+        {
+          "numero": "112",
+          "titulo": "Procedimiento disciplinario integral, términos, notificaciones, pruebas, gradualidad, reincidencia y medidas preventivas.",
+          "contenido": "Con el fin de garantizar el debido proceso, la imparcialidad y la trazabilidad de las actuaciones disciplinarias, SUPERCAN – Clínica Veterinaria aplicará el siguiente procedimiento y reglas complementarias:\nComunicación de apertura y citación a descargos. Cuando existan hechos que puedan constituir falta disciplinaria, SUPERCAN comunicará al trabajador la apertura de actuación disciplinaria y lo citará a descargos, indicando como mínimo: (i) descripción clara de los hechos, (ii) fecha(s) y lugar(es), (iii) norma presuntamente vulnerada, (iv) evidencia inicial disponible o referencia, y (v) fecha, hora y medio de la diligencia.\nTérminos, reprogramaciones y aplazamientos.\nLa citación se realizará con término razonable para preparar defensa.\nb) La diligencia podrá reprogramarse por una sola vez cuando el trabajador demuestre causa justificada (incapacidad médica, calamidad doméstica, fuerza mayor u otra circunstancia verificable).\nc) Si el trabajador no comparece sin justificación, SUPERCAN podrá continuar con el trámite y decidir con base en el acervo probatorio disponible, dejando constancia del intento de notificación y de la inasistencia.\nMedios de notificación y constancia. Las comunicaciones disciplinarias podrán notificarse por: (i) correo personal registrado por el trabajador, (ii) WhatsApp u otro medio previamente autorizado por el trabajador para fines laborales, y/o (iii) entrega física con constancia de recibido. Se dejará registro verificable del envío, entrega o lectura cuando sea técnicamente posible.\nMedios de prueba válidos y admisibles. SUPERCAN y el trabajador podrán aportar y solicitar pruebas, entre otras:\na) Documentales físicas o digitales (actas, memorandos, formatos, soportes).\nb) Registros de sistemas (correos, trazas, accesos, reportes).\nc) Registros de control de acceso, asistencia y jornada.\nd) Videovigilancia (CCTV) u otros registros de seguridad, cuando existan y se administren conforme a privacidad y protección de datos.\ne) Registros de geolocalización/ruta asociados a equipos o activos, cuando existan, se utilicen con finalidad legítima y hayan sido informados previamente.\nf) Testimonios y entrevistas internas.\ng) Informes técnicos, peritajes o conceptos cuando se requieran.\nTodas las pruebas se valorarán con criterios de razonabilidad, pertinencia y conducencia, garantizando contradicción.\nDerecho de defensa y contradicción. En descargos, el trabajador podrá: (i) rendir versión libre, (ii) aportar pruebas, (iii) solicitar práctica de pruebas pertinentes, y (iv) controvertir las existentes. La decisión será motivada y se notificará por medio verificable.\nGradualidad y criterios de reincidencia.\nComo regla, las faltas se sancionarán aplicando gradualidad y proporcionalidad, atendiendo gravedad, reiteración, intencionalidad, daño o riesgo generado y cargo del trabajador.\nb) Se entenderá como reincidencia la repetición de una falta de igual o similar naturaleza dentro de un periodo razonable definido por SUPERCAN en sus lineamientos internos o cuando exista antecedente disciplinario relacionado.\nc) La reincidencia o afectación relevante a la operación, a terceros, a la seguridad, a los activos o a la información podrá hacer que una conducta inicialmente leve sea calificada como grave.\nMedidas preventivas sin carácter sancionatorio. Durante el trámite y cuando la situación lo amerite, SUPERCAN podrá adoptar medidas preventivas temporales, tales como:\na)Retiro o limitación de funciones sensibles (manejo de caja, inventarios, acceso a medicamentos, historias clínicas o sistemas).\nb) Asignación temporal de tareas equivalentes o ajustes de turno/lugar de trabajo.\nc) Custodia temporal de elementos corporativos (llaves, carnés, dispositivos, accesos) para proteger a las personas, la operación, los activos y la información.\nEstas medidas no constituyen sanción anticipada, no prejuzgan responsabilidad y se adoptarán con criterios de necesidad y proporcionalidad.\nSoporte normativo: C.P., art. 29; CST art. 115 (modificado por Ley 2466 de 2025); CST (facultad subordinante dentro de límites legales); Ley 1010 de 2006 (cuando se relacione con acoso laboral, sin sustituir ruta del Comité de Convivencia Laboral); Ley 2365 de 2024 (prevención y atención del acoso sexual); Ley 1581 de 2012 y Decreto 1074 de 2015 (protección de datos personales en CCTV, registros y trazabilidad)."
+        }
+      ]
+    },
+    {
+      "titulo": "CAPÍTULO XI",
+      "articulos": [
+        {
+          "numero": "113",
+          "titulo": "Objeto y alcance del SG-SST en SUPERCAN – Clínica Veterinaria.",
+          "contenido": "SISTEMA DE GESTIÓN DE SEGURIDAD Y SALUD EN EL TRABAJO – SG-SST\nSUPERCAN – Clínica Veterinaria (Persona Natural) – Pasto, Nariño\nEn SUPERCAN – Clínica Veterinaria (persona natural) adoptamos, implementamos y mantenemos un Sistema de Gestión de Seguridad y Salud en el Trabajo – SG-SST, de conformidad con la normatividad vigente, con el fin de:\nProteger la vida, la integridad física, mental y social de todos nuestros trabajadores, incluyendo aprendices, practicantes, trabajadores en misión/temporales (si los hubiere), contratistas y demás personas que, en forma permanente o temporal, desarrollen actividades asociadas a la operación de la clínica o en nuestras instalaciones.\nIdentificar de manera sistemática los peligros, evaluar y valorar los riesgos, y establecer los respectivos controles, con énfasis en los riesgos propios de una clínica veterinaria, entre otros:\nBiológicos/zoonóticos: contacto con animales, fluidos, sangre, secreciones, mordeduras/arañazos, exposición a material biológico y residuos biosanitarios.\nQuímicos: desinfectantes, detergentes, medicamentos, anestésicos, sustancias de limpieza y control de plagas.\nFísicos y de seguridad: pinchazos/cortopunzantes, radiación (si se realiza radiología), riesgos eléctricos, locativos (caídas), manejo de cilindros/oxígeno si aplica, y equipos biomédicos.\nBiomecánicos: posturas forzadas, manipulación/sujeción de animales, levantamiento y traslado de cargas (concentrados, jaulas, equipos).\nPsicosociales: atención al usuario, turnos, presión emocional por casos clínicos, agresiones verbales, entre otros.\nIntegrar la seguridad y salud en el trabajo a todos los procesos de la clínica, como parte de la gestión integral y de la mejora continua.\nEl presente capítulo hace parte integrante del Reglamento Interno de Trabajo y es de obligatorio cumplimiento para el empleador y todos los trabajadores.\nSoporte normativo: Ley 1562 de 2012. Decreto 1072 de 2015 (SG-SST, definición y estructura). Resolución 0312 de 2019 (estándares mínimos)."
+        },
+        {
+          "numero": "114",
+          "titulo": "Responsabilidades del empleador en materia de Seguridad y Salud en el Trabajo.",
+          "contenido": "Además de las obligaciones generales establecidas en este Reglamento y en la legislación laboral, SUPERCAN – Clínica Veterinaria tendrá, entre otras, las siguientes responsabilidades específicas en SG-SST:\nDiseñar, implementar, mantener y mejorar de manera continua el SG-SST, con base en la normatividad vigente y en los estándares mínimos aplicables.\nGarantizar la identificación de peligros, evaluación y valoración de riesgos por cargo/actividad, y la definición de controles técnicos, administrativos, de capacitación y de elementos de protección personal.\nAfiliar a todos los trabajadores al Sistema General de Riesgos Laborales y reportar a la ARL las novedades correspondientes.\nProveer y reponer los EPP y demás equipos necesarios para el trabajo seguro, y vigilar su uso adecuado (p. ej., guantes, tapabocas/respiradores según riesgo, protección ocular, delantales, calzado, entre otros).\nGarantizar la ejecución de programas de capacitación, inducción y reinducción en SG-SST y bioseguridad.\nInvestigar incidentes, accidentes de trabajo y sospechas de enfermedad laboral y adoptar medidas correctivas y preventivas.\nGarantizar que ninguna persona sea objeto de represalias por reportar actos o condiciones inseguras, incidentes o accidentes, ni por participar en actividades del SG-SST.\nSoporte normativo: Decreto 1072 de 2015, art. 2.2.4.6.8 (obligaciones del empleador). Resolución 0312 de 2019. Ley 1562 de 2012."
+        },
+        {
+          "numero": "115",
+          "titulo": "Responsabilidades de los trabajadores en materia de Seguridad y Salud en el Trabajo.",
+          "contenido": "Sin perjuicio de las obligaciones generales previstas en este Reglamento, son responsabilidades específicas de los trabajadores en SUPERCAN – Clínica Veterinaria:\nCumplir las normas, procedimientos y protocolos de SG-SST y bioseguridad que establezca la clínica.\nUtilizar en forma permanente y adecuada los EPP suministrados.\nParticipar en capacitaciones, formación, pausas activas, simulacros y demás acciones de promoción y prevención programadas.\nReportar de inmediato al jefe directo o al responsable del SG-SST cualquier condición o acto inseguro, incidente, accidente de trabajo o sospecha de enfermedad laboral.\nInformar oportunamente cambios relevantes en su estado de salud que puedan afectar su capacidad para trabajar de forma segura.\nCuidar instalaciones, equipos, instrumental, mobiliario y herramientas, evitando usos peligrosos o no autorizados.\nSoporte normativo: Decreto 1072 de 2015 (deber de participación y corresponsabilidad de trabajadores dentro del SG-SST). Ley 1562 de 2012."
+        },
+        {
+          "numero": "116",
+          "titulo": "Identificación de peligros y reporte de actos y condiciones inseguras.",
+          "contenido": "Todos los trabajadores de SUPERCAN – Clínica Veterinaria deberán:\nContribuir a la identificación de peligros y evaluación de riesgos, informando situaciones que puedan afectar la seguridad o la salud en el trabajo.\nReportar de manera inmediata actos inseguros, condiciones inseguras, casi accidentes, incidentes y accidentes de trabajo, siguiendo los formatos y canales establecidos por la clínica.\nParticipar en la construcción, revisión y actualización de la matriz de peligros y evaluación de riesgos cuando sean convocados.\nNingún reporte de riesgo, incidente o condición insegura será considerado falta disciplinaria; por el contrario, se entenderá como ejercicio de autocuidado y corresponsabilidad.\nSoporte normativo: Decreto 1072 de 2015 (SG-SST basado en identificación y control de riesgos). Resolución 0312 de 2019 (exigencia de gestión preventiva y estándares mínimos)."
+        },
+        {
+          "numero": "117",
+          "titulo": "Elementos de Protección Personal – EPP.",
+          "contenido": "SUPERCAN – Clínica Veterinaria suministrará a sus trabajadores los EPP necesarios según la evaluación de riesgos y los perfiles de cargo/actividad.\nEl trabajador está obligado a usar de forma adecuada y permanente dichos elementos mientras permanezca expuesto a los riesgos para los que fueron diseñados.\nEl trabajador deberá cuidar los EPP entregados, informar cuando requieran reposición por deterioro normal y abstenerse de modificarlos o utilizarlos para fines distintos a los previstos.\nLa negativa injustificada a utilizar EPP, pese a capacitación y advertencias previas, podrá ser considerada falta disciplinaria, sin perjuicio de medidas inmediatas de control para proteger al trabajador, al equipo y a terceros (incluidos usuarios/visitantes).\nSoporte normativo: Decreto 1072 de 2015 (deber de control de riesgos y obligación de protección). Resolución 0312 de 2019."
+        },
+        {
+          "numero": "118",
+          "titulo": "Capacitación en Seguridad y Salud en el Trabajo.",
+          "contenido": "SUPERCAN – Clínica Veterinaria garantizará programas de inducción, reinducción y capacitación periódica en SST, acordes con los riesgos de la clínica (bioseguridad, manejo seguro de animales, cortopunzantes, químicos, emergencias, entre otros).\nLa participación en capacitaciones, pausas activas, simulacros y entrenamientos en emergencias es obligatoria para todos los trabajadores cuando haga parte de la jornada laboral o se programe como actividad institucional.\nLa inasistencia injustificada a capacitaciones obligatorias en SG-SST podrá ser considerada falta disciplinaria, conforme al Reglamento.\nSoporte normativo: Decreto 1072 de 2015 (estructura del SG-SST incluye capacitación y mejora). Resolución 0312 de 2019 (estándares mínimos de formación/gestión)."
+        },
+        {
+          "numero": "119",
+          "titulo": "Reporte e investigación de incidentes, accidentes de trabajo y enfermedades laborales.",
+          "contenido": "Todo incidente, accidente de trabajo o sospecha de enfermedad laboral deberá ser reportado de manera inmediata por el trabajador afectado o por sus compañeros al jefe inmediato o al responsable del SG-SST.\nSUPERCAN – Clínica Veterinaria realizará la investigación correspondiente, determinando causas inmediatas y básicas, y definiendo acciones correctivas y preventivas.\nLa clínica adelantará los reportes obligatorios ante la ARL y demás entidades competentes, dentro de los términos previstos en la normatividad vigente.\nSoporte normativo: Resolución 1401 de 2007 (investigación de incidentes y accidentes). Decreto 1072 de 2015 (SG-SST). Ley 1562 de 2012."
+        },
+        {
+          "numero": "120",
+          "titulo": "Mecanismos de participación en SG-SST.",
+          "contenido": "En atención al número de trabajadores de SUPERCAN – Clínica Veterinaria, se implementará el mecanismo de participación que corresponda: Vigía de SST (cuando aplique por tamaño) o COPASST, según lo exige la normatividad vigente.\nEl Vigía o el Comité, según aplique, será elegido conforme a los procedimientos legales y apoyará la gestión del SG-SST, el reporte de riesgos, la promoción del autocuidado y la verificación del cumplimiento de medidas preventivas.\nSUPERCAN garantizará disponibilidad de tiempo, recursos básicos y acceso a información necesaria para el adecuado funcionamiento de estos mecanismos de participación.\nSoporte normativo: Decreto 1072 de 2015 (participación de trabajadores en SG-SST). Resolución 2013 de 1986 (organización y funcionamiento del comité a partir de 10 trabajadores)."
+        },
+        {
+          "numero": "121",
+          "titulo": "Prohibición de represalias por reportar riesgos o ejercer derechos en SST.",
+          "contenido": "Ningún trabajador de SUPERCAN – Clínica Veterinaria podrá ser objeto de represalias, sanciones, despido, cambios de cargo o cualquier medida adversa por razón de:\nReportar actos o condiciones inseguras, incidentes, accidentes de trabajo o sospecha de enfermedad laboral.\nEjercer derechos relacionados con la seguridad y salud en el trabajo, incluidos reclamos o quejas presentados de buena fe ante la clínica, la ARL o las autoridades competentes.\nParticipar como Vigía de SST o miembro de comité, o actuar como representante en actividades de prevención.\nCualquier actuación que configure represalia ligada al ejercicio de derechos en SST se considerará falta gravísima para quien la cometa y dará lugar al procedimiento disciplinario correspondiente.\nSoporte normativo: Decreto 1072 de 2015 (SG-SST con participación y protección de la gestión preventiva)."
+        }
+      ]
+    },
+    {
+      "titulo": "CAPÍTULO XII",
+      "articulos": [
+        {
+          "numero": "122",
+          "titulo": "Principios de dignidad humana, respeto y trato igualitario.",
+          "contenido": "PREVENCIÓN DEL ACOSO LABORAL, ACOSO SEXUAL Y NO DISCRIMINACIÓN – SUPERCAN (Clínica Veterinaria, Pasto)\nEn SUPERCAN todas las personas tienen derecho a recibir un trato digno, respetuoso, libre de violencia, acoso y discriminación en el marco de la relación laboral y en el desarrollo de las actividades de la clínica veterinaria. En consecuencia, SUPERCAN:\nRechaza expresamente toda forma de violencia, acoso laboral, acoso sexual, discriminación y trato degradante en el trabajo, en relación con el trabajo o como resultado del mismo.\nPromueve condiciones de respeto recíproco entre empleador, trabajadores, aprendices, practicantes, contratistas, proveedores, visitantes y usuarios que interactúen con el personal.\nGarantiza medidas reforzadas de protección para personas en situación de vulnerabilidad o históricamente discriminadas.\nSoporte normativo: Constitución Política (arts. 1, 13, 25 y 53); Ley 1010 de 2006; Ley 2365 de 2024."
+        },
+        {
+          "numero": "123",
+          "titulo": "Prohibición general de acoso laboral y actos de violencia en el trabajo.",
+          "contenido": "Queda terminantemente prohibido en SUPERCAN cualquier forma de acoso laboral, entendido como conducta persistente y demostrable ejercida sobre un trabajador por parte de empleador, superior, compañero o subalterno, encaminada a infundir miedo, intimidación, angustia, causar perjuicio laboral, desmotivación o inducir la renuncia.\nSe consideran especialmente prohibidas, entre otras, las siguientes modalidades:\nMaltrato laboral.\nPersecución laboral.\nDiscriminación laboral.\nEntorpecimiento laboral.\nInequidad laboral.\nDesprotección laboral.\nEstas conductas podrán calificarse como faltas disciplinarias graves o gravísimas, según su entidad, reiteración y efectos, sin perjuicio de responsabilidades administrativas, civiles o penales.\nSoporte normativo: Ley 1010 de 2006; Decreto 1072 de 2015 (SG-SST); Resolución 2646 de 2008 (riesgo psicosocial)."
+        },
+        {
+          "numero": "124",
+          "titulo": "Acoso sexual en el ámbito laboral.",
+          "contenido": "Para efectos de este Reglamento, se entiende por acoso sexual todo acto de persecución, hostigamiento o asedio de carácter o connotación sexual, lasciva o libidinosa, que se manifieste mediante relaciones de poder vertical u horizontal, y ocurra una o varias veces en el contexto laboral.\nConstituyen conductas que pueden configurar acoso sexual (lista enunciativa):\nComentarios, insinuaciones, burlas o expresiones sexuales no solicitadas.\nSolicitudes de favores sexuales o condicionamiento de beneficios laborales.\nContactos físicos no consentidos o invasión del espacio personal con connotación sexual.\nEnvío o exhibición de contenido sexual no solicitado por medios físicos o digitales.\nRepresalias o amenazas derivadas de la negativa a insinuaciones o solicitudes sexuales.\nEn SUPERCAN estas conductas se consideran faltas graves o gravísimas y activarán medidas de protección y actuación inmediata, sin perjuicio de las acciones ante autoridades competentes.\nSoporte normativo: Ley 2365 de 2024."
+        },
+        {
+          "numero": "125",
+          "titulo": "Prohibición de discriminación y trato desigual injustificado.",
+          "contenido": "En SUPERCAN queda prohibida toda discriminación directa o indirecta que anule o menoscabe el ejercicio de derechos laborales y de seguridad social en condiciones de igualdad.\nSe prohíbe, entre otras:\nDiscriminar en selección, contratación, promoción, formación, evaluación, remuneración o terminación por razones protegidas (sexo, género, orientación sexual, identidad de género, origen, edad, discapacidad, embarazo, maternidad/paternidad, religión, afiliación sindical u otras).\nDiferencias salariales o de condiciones sin fundamento objetivo y verificable frente a trabajos de igual valor.\nTolerar burlas, estereotipos, exclusiones o discursos de odio.\nToda decisión que afecte condiciones laborales deberá sustentarse en criterios técnicos, objetivos y verificables relacionados con el cargo y el servicio.\nSoporte normativo: Constitución Política (art. 13); Código Sustantivo del Trabajo (principio de igualdad); Ley 1496 de 2011 (igualdad salarial)."
+        },
+        {
+          "numero": "126",
+          "titulo": "Medidas de prevención y sensibilización.",
+          "contenido": "SUPERCAN desarrollará acciones permanentes de prevención, sensibilización y formación para evitar acoso laboral, acoso sexual y discriminación, tales como:\nInducción y reinducción anual con contenidos mínimos sobre acoso laboral, acoso sexual, no discriminación, rutas internas/externas y deberes de reporte.\nDivulgación accesible de este capítulo y de los protocolos internos que se adopten.\nPromoción de comunicación respetuosa, cultura de cero tolerancia y solución pacífica de conflictos.\nIntegración de estas acciones al SG-SST, especialmente al componente de riesgo psicosocial.\nSoporte normativo: Ley 1010 de 2006; Ley 2365 de 2024; Decreto 1072 de 2015; Resolución 2646 de 2008."
+        },
+        {
+          "numero": "127",
+          "titulo": "Mecanismos internos de queja y actuación frente a acoso y discriminación.",
+          "contenido": "SUPERCAN contará con mecanismos internos para recepción, análisis y atención de quejas, garantizando confidencialidad, imparcialidad, celeridad, no represalias y debido proceso.\nCanal para acoso laboral (COCOLAB):\nLa queja se radicará ante el Comité de Convivencia Laboral (COCOLAB), conforme a su conformación por tamaño de empresa y a su reglamento interno.\nEl COCOLAB actuará como instancia preventiva, orientadora, conciliadora y canalizadora, y no determina por sí mismo si hubo acoso laboral.\nCanales para acoso sexual y discriminación:\nLa queja podrá presentarse ante la Gerencia/Empleador, el Responsable de Talento Humano (si existe) o el Responsable del SG-SST, quienes orientarán la ruta interna y externa, medidas de protección y articulación con EPS/ARL cuando aplique.\nMedidas temporales de protección:\nPodrán adoptarse ajustes de horarios, organización del trabajo, restricción de contacto, acompañamiento psicosocial u otras medidas necesarias, evitando revictimización.\nConfidencialidad y prohibición de represalias:\nSe prohíben represalias contra quien queje de buena fe, testigos o quienes colaboren; cualquier represalia será falta gravísima.\nSoporte normativo: Ley 1010 de 2006; Resolución 3461 de 2025 (COCOLAB y procedimiento preventivo); Decreto 1072 de 2015; Ley 2365 de 2024."
+        },
+        {
+          "numero": "128",
+          "titulo": "Consecuencias disciplinarias del acoso laboral, acoso sexual y actos de discriminación.",
+          "contenido": "Las conductas que, surtido el trámite correspondiente, se establezcan como constitutivas de acoso laboral, acoso sexual o discriminación, serán sancionadas conforme al régimen disciplinario del Reglamento, atendiendo gravedad, reiteración, afectación a la víctima y al ambiente laboral, y proporcionalidad.\nPodrán imponerse amonestaciones, suspensiones o terminación con justa causa cuando haya lugar, según el caso y la ley aplicable.\nEn conductas asociadas a violencia basada en género o discriminación, se valorará la especial gravedad.\nToda decisión disciplinaria será escrita y motivada, garantizando el debido proceso.\nSoporte normativo: Ley 1010 de 2006; Ley 2365 de 2024; Código Sustantivo del Trabajo (justas causas y régimen disciplinario)."
+        },
+        {
+          "numero": "129",
+          "titulo": "Canales para identificación, prevención y atención del acoso laboral, acoso sexual y situaciones de salud mental.",
+          "contenido": "Para garantizar ambientes de trabajo sanos y seguros, SUPERCAN establece:\nCOCOLAB (acoso laboral): canal formal para quejas de presunto acoso laboral, con reglamento, custodia reservada y tiempos de actuación conforme a la Resolución 3461 de 2025.\nOrientación interna (acoso sexual y salud mental): Gerencia/Empleador, Responsable de SG-SST y/o Talento Humano orientarán la ruta y articularán con EPS/ARL cuando se identifiquen riesgos psicosociales, estrés severo u otras afectaciones relacionadas con el trabajo.\nCanales externos: el trabajador podrá acudir al Ministerio del Trabajo; y si los hechos pudieran constituir delito, a la Fiscalía General de la Nación.\nRegistro estadístico interno (anonimizado): SUPERCAN llevará registro para análisis preventivo, sin vulnerar datos sensibles.\nEnfoque preventivo integrado al SG-SST: estas acciones se integran a la gestión del riesgo psicosocial y al plan anual del SG-SST.\nSoporte normativo: Resolución 3461 de 2025; Resolución 2646 de 2008; Decreto 1072 de 2015; Ley 2365 de 2024; Ley 1010 de 2006."
+        }
+      ]
+    },
+    {
+      "titulo": "CAPÍTULO XIII",
+      "articulos": [
+        {
+          "numero": "130",
+          "titulo": "Objeto y ámbito de aplicación.",
+          "contenido": "USO DE HERRAMIENTAS, EQUIPOS, SISTEMAS DE INFORMACIÓN, MENSAJERÍA Y CORREO CORPORATIVO\nSUPERCAN – CLÍNICA VETERINARIA (Persona Natural) – Pasto, Nariño\nEl presente capítulo tiene por objeto regular el uso de equipos, herramientas de trabajo, sistemas de información, aplicaciones, redes, mensajería y cuentas institucionales que SUPERCAN – Clínica Veterinaria (persona natural) entregue o ponga a disposición de sus trabajadores, cualquiera sea su modalidad de vinculación, con el fin de:\nProteger la integridad, disponibilidad, confidencialidad y trazabilidad de la información.\nGarantizar el uso adecuado y conservación de los bienes del empleador.\nPrevenir incidentes de seguridad de la información, fuga de datos, daños a equipos y riesgos legales o disciplinarios.\nEstas disposiciones son de obligatorio cumplimiento para toda persona que, por razón de su labor, tenga acceso a recursos tecnológicos o de información de SUPERCAN, incluyendo información de clientes/usuarios, pacientes (animales), proveedores, historias clínicas veterinarias, facturación e inventarios.\nSoporte normativo: Constitución Política art. 15 (habeas data, intimidad) y art. 53 (principios laborales); Ley 1581 de 2012 (protección de datos personales) y su reglamentación; CST art. 58 y 60 (deberes/prohibiciones del trabajador) y art. 57 (deberes del empleador)."
+        },
+        {
+          "numero": "131",
+          "titulo": "Propiedad y cuidado de equipos y herramientas de trabajo.",
+          "contenido": "Todos los equipos de cómputo, dispositivos móviles, periféricos, licencias de software, cámaras y sistemas de seguridad, impresoras, mobiliario, insumos y demás herramientas entregadas al trabajador para el desempeño de sus funciones son de propiedad de SUPERCAN – Clínica Veterinaria, salvo pacto escrito en contrario.\nEl trabajador está obligado a:\na)Usar los equipos y herramientas únicamente para el desarrollo de sus funciones laborales.\nb) Conservarlos en buen estado e informar de inmediato cualquier daño, pérdida, hurto o anomalía.\nc) Abstenerse de realizar reparaciones por cuenta propia o acudir a terceros no autorizados.\nEl trabajador responderá en los términos de la ley por daños ocasionados por dolo o culpa grave, uso indebido o contrario a instrucciones de SUPERCAN.\nSoporte normativo: CST art. 58 (deber de cuidado y obediencia) y art. 60 (prohibiciones); Código Civil (responsabilidad por dolo/culpa grave, según corresponda)."
+        },
+        {
+          "numero": "132",
+          "titulo": "Uso de software, aplicaciones y licencias.",
+          "contenido": "En los equipos y sistemas de SUPERCAN solo podrá instalarse y utilizarse software autorizado por el empleador.\nSe prohíbe al trabajador:\nInstalar programas, aplicaciones, extensiones o software sin autorización previa, escrita o verificable.\nCopiar, reproducir o utilizar licencias de software de manera ilegal o contraria a los términos de uso.\nDesactivar, modificar o evadir mecanismos de seguridad, antivirus, filtros o herramientas de protección instaladas.\nSUPERCAN podrá realizar revisiones técnicas periódicas a equipos y sistemas para verificar el cumplimiento, dentro del marco legal y con fines de seguridad de la información y continuidad operativa.\nSoporte normativo: Ley 1581 de 2012 (seguridad de la información y medidas); CST art. 58 y 60 (cumplimiento de instrucciones y prohibiciones); normas de derecho de autor y propiedad intelectual aplicables."
+        },
+        {
+          "numero": "133",
+          "titulo": "Accesos, usuarios, contraseñas y uso de credenciales.",
+          "contenido": "Los usuarios, claves, tokens, credenciales y permisos en los sistemas de información de SUPERCAN son personales, intransferibles y de uso exclusivo del trabajador al que se asignen.\nEl trabajador deberá:\nMantener confidencialidad de contraseñas, cambiarlas cuando se le indique y evitar anotarlas en lugares visibles o accesibles.\nCerrar sesión al ausentarse del puesto o al finalizar la jornada.\nInformar de inmediato cualquier sospecha de acceso no autorizado, pérdida de credenciales o incidente de seguridad.\nQueda prohibido:\na) Compartir usuarios o contraseñas con compañeros, terceros o personas no autorizadas.\nb) Permitir que otras personas utilicen los accesos asignados.\nToda actividad realizada con las credenciales del trabajador se presumirá realizada por éste, salvo prueba en contrario, sin perjuicio de la obligación de SUPERCAN de investigar incidentes reportados oportunamente.\nSoporte normativo: Ley 1581 de 2012 (principio de seguridad); CST art. 58 (obligaciones) y art. 60 (prohibiciones)."
+        },
+        {
+          "numero": "134",
+          "titulo": "Uso del correo electrónico corporativo y cuentas institucionales.",
+          "contenido": "Los correos corporativos y demás cuentas institucionales asignadas al trabajador son herramientas de trabajo destinadas principalmente a fines laborales.\nEl trabajador se obliga a:\nUtilizar el correo/cuentas de forma responsable, profesional y respetuosa, evitando contenidos ofensivos, discriminatorios, difamatorios o ajenos a la actividad de SUPERCAN.\nNo enviar, almacenar o reenviar cadenas, spam, material pornográfico, pirata, violento o contrario a la ley y al presente Reglamento.\nEvitar el envío de información confidencial o datos personales a destinatarios no autorizados o a cuentas personales, salvo autorización expresa y documentada.\nSUPERCAN podrá, dentro del marco legal, realizar monitoreo técnico y auditoría de sus sistemas y cuentas institucionales con fines de seguridad, cumplimiento normativo, protección de activos y continuidad operativa, evitando intromisión arbitraria en la vida privada del trabajador.\nEl trabajador deberá utilizar cuentas personales para comunicaciones estrictamente privadas.\nSoporte normativo: Constitución art. 15 (intimidad/habeas data) con armonización a facultades del empleador; Ley 1581 de 2012 (tratamiento de datos y medidas de seguridad); CST art. 58 y 60."
+        },
+        {
+          "numero": "135",
+          "titulo": "Uso de Internet, redes y medios digitales.",
+          "contenido": "El acceso a Internet y redes facilitadas por SUPERCAN tiene como finalidad principal el desarrollo de funciones del cargo.\nSe prohíbe usar la red para:\nDescarga o distribución de software ilegal o contenido protegido por derechos de autor sin autorización.\nAcceso reiterado a páginas de contenido pornográfico, violento, discriminatorio, de apuestas o manifiestamente ajenas a la labor, que afecten productividad o reputación.\nActividades que pongan en riesgo la seguridad de la información (desactivar antivirus, descargas de fuentes no confiables, abrir enlaces sospechosos).\nEl uso personal eventual y razonable podrá tolerarse siempre que no afecte la jornada, no genere riesgos y no contraríe este Reglamento.\nSoporte normativo: CST art. 58 y 60; Ley 1581 de 2012 (seguridad); Constitución art. 53 (buenas prácticas laborales) y art. 15."
+        },
+        {
+          "numero": "136",
+          "titulo": "Información confidencial y manejo de datos.",
+          "contenido": "Toda información a la que el trabajador acceda por razón de su cargo (bases de datos de propietarios, historias clínicas veterinarias, inventarios, facturación, claves, manuales, estrategias, listas de precios, proveedores y cualquier información reservada) se considera confidencial.\nEl trabajador se obliga a:\nNo divulgar, copiar, extraer, fotografiar, almacenar en nubes personales ni entregar a terceros información confidencial sin autorización previa.\nNo usar información confidencial en beneficio propio o de terceros, ni durante ni después de terminada la relación laboral.\nCumplir protocolos de protección de datos personales y manejo documental físico y digital.\nEl incumplimiento podrá constituir falta grave o gravísima y dará lugar a acciones legales.\nSoporte normativo: Ley 1581 de 2012 (deber de confidencialidad y seguridad en tratamiento de datos); Decreto 1377 de 2013 (reglamentario); CST art. 58 y 60."
+        },
+        {
+          "numero": "137",
+          "titulo": "Uso de dispositivos personales y trabajo fuera de instalaciones.",
+          "contenido": "Cuando SUPERCAN autorice el uso de dispositivos personales (computadores, tabletas, celulares) para labores, el trabajador deberá cumplir instrucciones de seguridad (bloqueo de pantalla, claves, antivirus, no compartir archivos, etc.).\nEn caso de teletrabajo o trabajo remoto autorizado, se mantienen las obligaciones de confidencialidad, seguridad de la información y uso adecuado.\nLa pérdida o hurto de dispositivos personales que contengan información de SUPERCAN deberá reportarse de inmediato para mitigación (bloqueo de accesos, cambios de contraseñas, etc.).\nSoporte normativo: Ley 1581 de 2012 (seguridad); CST art. 58 y 60; Ley 1221 de 2008 y Decreto 884 de 2012 (teletrabajo), si aplica."
+        },
+        {
+          "numero": "138",
+          "titulo": "Incumplimiento y consecuencias.",
+          "contenido": "El incumplimiento de las obligaciones previstas en este capítulo podrá calificarse como falta leve, grave o gravísima, según la naturaleza de la conducta y el impacto sobre seguridad de la información, equipos, terceros o SUPERCAN, y será sancionado conforme al capítulo disciplinario del presente Reglamento, sin perjuicio de responsabilidades civiles, administrativas o penales.\nSoporte normativo: CST (régimen disciplinario y sanciones; justa causa art. 62 según caso); Ley 1581 de 2012 (infracciones en tratamiento de datos) y normas concordantes."
+        }
+      ]
+    },
+    {
+      "titulo": "CAPÍTULO XIV",
+      "articulos": [
+        {
+          "numero": "139",
+          "titulo": "Objeto, ámbito de aplicación y fundamento legal.",
+          "contenido": "PROTECCIÓN DE DATOS PERSONALES, IMAGEN Y HÁBEAS DATA\nSUPERCAN – CLÍNICA VETERINARIA (Persona Natural) – Pasto, Nariño\nEn SUPERCAN – Clínica Veterinaria (persona natural) garantizamos el derecho fundamental al hábeas data, a la intimidad y al buen nombre de nuestros trabajadores, de conformidad con los artículos 15 y 20 de la Constitución Política, la Ley 1581 de 2012 y sus decretos reglamentarios (en especial el Decreto 1377 de 2013 y el Decreto 1074 de 2015), la Ley 1266 de 2008 (información financiera y crediticia), la Ley 1273 de 2009 (protección de la información y de los datos) y demás normas concordantes.\nEl presente capítulo regula:\nEl tratamiento de los datos personales de trabajadores, aspirantes, ex trabajadores, contratistas dependientes (si los hubiere) y demás personas que suministren información en el marco de la relación laboral o contractual con SUPERCAN.\nLa utilización de la imagen del trabajador en medios corporativos.\nReglas generales sobre derechos de autor y propiedad intelectual de obras, desarrollos y materiales elaborados en el marco de la relación laboral o por encargo, así como prohibiciones de manejo indebido de información y datos.\nSoporte normativo: Constitución Política (arts. 15 y 20); Ley 1581 de 2012; Decreto 1377 de 2013; Decreto 1074 de 2015; Ley 1266 de 2008; Ley 1273 de 2009."
+        },
+        {
+          "numero": "140",
+          "titulo": "Calidad de responsable del tratamiento y bases de datos laborales.",
+          "contenido": "SUPERCAN – Clínica Veterinaria (persona natural) actúa como Responsable del Tratamiento de los datos personales de sus trabajadores, aspirantes, ex trabajadores y demás personas que suministren información en el marco del vínculo laboral o contractual.\nLos datos podrán reposar, entre otras, en las siguientes bases de datos y archivos:\nHistorias laborales y expedientes de personal.\nRegistros de nómina y prestaciones sociales.\nRegistros de ingreso y salida, control de asistencia y seguridad física (incluyendo, cuando exista, videovigilancia/CCTV conforme a ley y políticas internas).\nBases de datos del SG-SST, evaluaciones médicas ocupacionales, restricciones y recomendaciones ocupacionales (sin perjuicio del régimen especial de historia clínica).\nSistemas de información y aplicaciones internas asociadas a la gestión del talento humano y a la operación de la clínica (p. ej., facturación, inventarios, turnos, comunicaciones corporativas), en lo que corresponda a datos laborales.\nSoporte normativo: Ley 1581 de 2012 (definiciones de responsable, base de datos y obligaciones); Decreto 1074 de 2015 (compilatorio del sector comercio, industria y turismo en materia de protección de datos)."
+        },
+        {
+          "numero": "141",
+          "titulo": "Autorización para el tratamiento de datos personales.",
+          "contenido": "Al momento de su vinculación, todo trabajador de SUPERCAN – Clínica Veterinaria deberá firmar (en medio físico o digital) una autorización de tratamiento de datos personales, informada de manera previa, expresa e inequívoca, que contenga como mínimo:\nIdentidad y datos de contacto del responsable del tratamiento (SUPERCAN – Clínica Veterinaria / empleador persona natural).\nFinalidades específicas para las cuales serán utilizados sus datos personales (gestión del vínculo laboral, pago de salarios y prestaciones, afiliaciones al Sistema de Seguridad Social, gestión del SG-SST, comunicaciones internas, control de acceso y asistencia, evaluación de desempeño, entre otras).\nDerechos que le asisten como titular (conocer, actualizar, rectificar, suprimir, revocar autorización cuando proceda y acceder a mecanismos de consulta y reclamo).\nCanales a través de los cuales podrá ejercer sus derechos de hábeas data.\nLa autorización será voluntaria y revocable, sin perjuicio de la obligación de SUPERCAN de conservar determinada información por mandato legal, contractual, contable, de seguridad social o de SG-SST, incluso con posterioridad a la terminación del vínculo.\nSoporte normativo: Ley 1581 de 2012 (autorización y finalidades); Decreto 1377 de 2013; Decreto 1074 de 2015."
+        },
+        {
+          "numero": "142",
+          "titulo": "Derechos del titular y procedimiento para su ejercicio.",
+          "contenido": "Los trabajadores, ex trabajadores y demás titulares de datos personales frente a SUPERCAN – Clínica Veterinaria tendrán, entre otros, los siguientes derechos:\nConocer, acceder y obtener copia de la información personal que repose en las bases de datos del empleador.\nSolicitar actualización o rectificación de información parcial, inexacta, incompleta, fraccionada o que induzca a error.\nSolicitar supresión de datos cuando:\na) No se respeten principios, derechos y garantías constitucionales y legales, o\nb) Haya cesado la finalidad para la cual fueron recolectados y no exista obligación legal o contractual de conservarlos.\nRevocar la autorización otorgada para el tratamiento, cuando no exista deber legal o contractual que impida dicha revocatoria.\nCanales internos: Las consultas y reclamos podrán presentarse por escrito o por medio verificable ante el responsable de protección de datos que SUPERCAN designe o, en su defecto, ante el empleador/administración del establecimiento.\nTérminos: Los términos de respuesta se sujetarán a lo previsto en la Ley 1581 de 2012 y sus decretos reglamentarios.\nSoporte normativo: Ley 1581 de 2012 (derechos del titular, consultas y reclamos); Decreto 1377 de 2013; Decreto 1074 de 2015."
+        },
+        {
+          "numero": "143",
+          "titulo": "Uso de la imagen del trabajador y autorización para fines corporativos.",
+          "contenido": "Al momento del ingreso, el trabajador firmará un documento o acta de autorización específica mediante la cual autoriza a SUPERCAN – Clínica Veterinaria el uso de su imagen (fotografías, videos y demás representaciones gráficas) en actividades y piezas de carácter corporativo, tales como:\nPublicaciones internas (carteleras, boletines, informes de gestión).\nMaterial de capacitación, inducción o reinducción (presentaciones, manuales, videos institucionales).\nPublicaciones externas de naturaleza corporativa, comercial o institucional (página web, redes sociales o material publicitario), siempre que guarde relación con actividades propias de SUPERCAN y no se afecten derechos del trabajador.\nLa autorización se otorgará con fundamento en el artículo 15 de la Constitución Política y las reglas de tratamiento de datos personales de la Ley 1581 de 2012, y podrá ser revocada total o parcialmente por el trabajador mediante solicitud escrita.\nAl retirarse el trabajador, podrá solicitar por escrito que su imagen deje de utilizarse en nuevas publicaciones o piezas. En tal caso, SUPERCAN:\nSe abstendrá de emplear la imagen del ex trabajador en nuevas campañas o piezas futuras, salvo obligación legal o contractual.\nPodrá conservar piezas ya producidas que formen parte de archivos históricos, informes ya difundidos o evidencias de actividades, procurando no reutilizarlas en materiales nuevos.\nSUPERCAN no estará obligada a modificar documentos, reportes o evidencias ya entregadas a terceros o almacenadas como soporte de procesos legales, contractuales, contables o del SG-SST; sin embargo, garantizará que la imagen del ex trabajador no se use en adelante con fines comerciales distintos a los originalmente informados.\nSoporte normativo: Constitución Política art. 15; Ley 1581 de 2012."
+        },
+        {
+          "numero": "144",
+          "titulo": "Información sensible, exámenes médicos ocupacionales y reserva.",
+          "contenido": "La información relativa al estado de salud de los trabajadores, exámenes médicos ocupacionales, incapacidades, diagnósticos, resultados de pruebas clínicas y, en general, cualquier dato de carácter sensible, se manejará con estricta reserva, conforme a la Ley 1581 de 2012, a las normas del SG-SST y al régimen especial de historia clínica.\nEl acceso a historias clínicas ocupacionales y documentos médicos estará restringido al personal de salud autorizado, a la ARL y a las autoridades que lo requieran, en los términos de la ley. SUPERCAN solo conocerá la información estrictamente necesaria para la gestión del riesgo laboral (aptitudes, restricciones y recomendaciones ocupacionales).\nSoporte normativo: Ley 1581 de 2012 (datos sensibles y reserva); Ley 23 de 1981 (ética médica e historia clínica) y normas concordantes; Decreto 1072 de 2015 (SG-SST)."
+        },
+        {
+          "numero": "145",
+          "titulo": "Derechos de autor y propiedad intelectual sobre obras y desarrollos realizados en SUPERCAN.",
+          "contenido": "Los documentos, bases de datos, manuales, formatos, informes, procedimientos, piezas gráficas, software, desarrollos tecnológicos, capacitaciones, contenidos de formación, presentaciones y demás obras elaboradas por el trabajador, individual o conjuntamente, en cumplimiento de sus funciones, por encargo de SUPERCAN o utilizando recursos del empleador, se considerarán, para efectos patrimoniales, de titularidad de SUPERCAN – Clínica Veterinaria, conforme a la normatividad aplicable.\nEl trabajador reconoce que:\na) Los derechos morales de autor (paternidad, integridad, etc.) son inalienables, irrenunciables e imprescriptibles, y permanecerán en cabeza del autor cuando ostente dicha calidad.\nb) Los derechos patrimoniales y facultades de explotación económica sobre obras y desarrollos creados en cumplimiento de obligaciones laborales o por encargo se entenderán cedidos a SUPERCAN en la medida en que guarden relación directa con sus funciones y con la actividad del establecimiento, salvo pacto escrito diferente.\nEl trabajador se obliga a:\nNo reproducir, comercializar, divulgar ni utilizar para beneficio propio o de terceros, sin autorización, las obras, desarrollos, bases de datos, manuales o materiales de propiedad intelectual de SUPERCAN.\nNo registrar a su nombre, ni a nombre de terceros, obras, marcas, logotipos, software o bases de datos que sean producto de sus funciones o encargos del empleador.\nLa vulneración podrá ser falta grave o gravísima, sin perjuicio de acciones civiles y penales.\nSoporte normativo: Ley 23 de 1982; Decisión Andina 351 de 1993; Ley 44 de 1993; Ley 1915 de 2018 y normas concordantes."
+        },
+        {
+          "numero": "146",
+          "titulo": "Prohibiciones especiales sobre manejo de información y datos personales.",
+          "contenido": "Sin perjuicio de lo previsto en otros capítulos del presente Reglamento, queda especialmente prohibido a los trabajadores de SUPERCAN – Clínica Veterinaria:\nExtraer, copiar, descargar o trasladar a dispositivos personales, nubes privadas o cuentas de correo personales, sin autorización, bases de datos, listados, información sensible o documentos internos.\nUtilizar información obtenida en desarrollo del vínculo laboral para fines personales, comerciales, políticos o de cualquier naturaleza ajena a las actividades de SUPERCAN.\nEntregar a terceros, sin autorización, claves, accesos o copias de documentos físicos o digitales que contengan datos personales o información reservada.\nEl incumplimiento será sancionado conforme a la escala de faltas y sanciones del Reglamento, atendiendo gravedad, daño causado y posible afectación de derechos de los titulares.\nSoporte normativo: Ley 1581 de 2012 (deberes de confidencialidad y seguridad); Ley 1273 de 2009 (delitos informáticos); CST arts. 58 y 60 (obligaciones y prohibiciones del trabajador) y art. 62 (justa causa, según el caso)."
+        }
+      ]
+    },
+    {
+      "titulo": "CAPÍTULO XV",
+      "articulos": [
+        {
+          "numero": "147",
+          "titulo": "Integración, interpretación y supletoriedad.",
+          "contenido": "DISPOSICIONES FINALES, MEDIOS DE COMUNICACIÓN Y DESCONEXIÓN LABORAL\nSUPERCAN – CLÍNICA VETERINARIA (Persona Natural) – Pasto, Nariño\nEl presente Reglamento Interno de Trabajo de SUPERCAN – Clínica Veterinaria (persona natural) hace parte integral de los contratos individuales de trabajo que celebre el empleador con sus trabajadores, y se interpretará en armonía con la Constitución Política, el Código Sustantivo del Trabajo, la normatividad vigente en materia de Seguridad y Salud en el Trabajo (SG-SST), la legislación sobre protección de datos personales, la reforma laboral vigente (Ley 2466 de 2025) y demás disposiciones aplicables.\nEn caso de duda en la interpretación de una disposición del Reglamento que no pueda resolverse por vía ordinaria, se aplicará el principio de favorabilidad en beneficio del trabajador, sin desconocer los derechos mínimos irrenunciables ni el equilibrio propio de la relación laboral.\nSoporte normativo: Constitución Política (principios laborales y favorabilidad); Código Sustantivo del Trabajo; Ley 2466 de 2025 (reforma laboral, entre otros, reglas actualizadas para publicación del RIT)."
+        },
+        {
+          "numero": "148",
+          "titulo": "Publicación, divulgación y medios oficiales de consulta del Reglamento.",
+          "contenido": "SUPERCAN – Clínica Veterinaria garantiza que el presente Reglamento Interno de Trabajo sea conocido y accesible para todos los trabajadores, para lo cual:\nMantendrá una copia actualizada del Reglamento publicada en cartelera o espacio físico visible dentro de las instalaciones del establecimiento en Pasto (Nariño).\nPublicará el Reglamento conforme a las reglas legales vigentes: fijación de dos (2) copias legibles en dos (2) sitios distintos y, adicionalmente, a través de un medio virtual accesible por los trabajadores en cualquier momento (por ejemplo, enlace/QR).\nPodrá cargar el Reglamento en un repositorio digital, página web (si existe) y/o remitirlo a los trabajadores por correo electrónico u otro canal digital propio, dejando constancia de dicha actuación.\nLa publicación en estos medios se entenderá suficiente para efectos de divulgación general del Reglamento y sus modificaciones, sin perjuicio de las demás exigencias legales aplicables para su adopción o reforma.\nSoporte normativo: CST art. 119 (divulgación) y CST art. 120 modificado por la Ley 2466 de 2025 (publicación física y medio virtual)."
+        },
+        {
+          "numero": "149",
+          "titulo": "Medios de comunicación y notificación de actuaciones laborales individuales.",
+          "contenido": "Sin perjuicio de la divulgación general prevista en el artículo anterior, para efectos de comunicaciones individuales relacionadas con la relación laboral (memorandos, llamados de atención, citaciones, notificaciones de decisiones, cambios de horario, novedades de nómina, afiliaciones y asuntos administrativos del trabajador), SUPERCAN podrá utilizar, de manera complementaria, los siguientes canales informados por el trabajador y actualizados en su hoja de vida:\nNúmero de teléfono personal (llamadas o mensajes).\nAplicaciones de mensajería instantánea (p. ej., WhatsApp), cuando el trabajador haya autorizado expresamente su uso para fines laborales.\nCorreo electrónico personal, cuando el trabajador no cuente con correo corporativo o cuando se haya acordado su uso para comunicaciones laborales.\nDirección física de residencia suministrada por el trabajador, para envío o entrega de comunicaciones escritas cuando se requiera soporte físico.\nParágrafo 1. Actualización de datos de contacto. El trabajador se obliga a mantener actualizados sus datos de contacto (teléfono, correo y dirección). SUPERCAN entenderá válidamente realizadas las comunicaciones efectuadas a los datos registrados y no actualizados por el trabajador, salvo prueba en contrario.\nParágrafo 2. Alcance y protección de datos. El uso de estos canales personales se limita a comunicaciones que solo conciernen al trabajador destinatario y se realizará con respeto a la normativa de protección de datos personales (principios de seguridad y confidencialidad, y tratamiento autorizado). Su utilización no excluye la entrega física de documentos ni la firma de constancias cuando la ley o la naturaleza del acto lo exijan.\nSoporte normativo: Constitución Política art. 15 (intimidad/hábeas data); Ley 1581 de 2012 (principios de seguridad y confidencialidad y tratamiento autorizado)."
+        },
+        {
+          "numero": "150",
+          "titulo": "Política de desconexión laboral.",
+          "contenido": "En SUPERCAN – Clínica Veterinaria se reconoce y garantiza el derecho a la desconexión laboral, entendido como la facultad del trabajador de no responder comunicaciones, órdenes o requerimientos laborales por fuera de la jornada de trabajo pactada, durante descansos, vacaciones, licencias y permisos debidamente autorizados.\nSUPERCAN se abstendrá de exigir atención de mensajes, llamadas, correos o chats por fuera de la jornada, salvo en los siguientes casos excepcionales:\nFuerza mayor o caso fortuito que comprometa la seguridad de las personas, la continuidad esencial del servicio o la protección de bienes relevantes; en el contexto veterinario, esto incluye eventos críticos que comprometan la seguridad del personal o la operación mínima indispensable.\nCargos de dirección, confianza y manejo que por su naturaleza requieran disponibilidad, siempre que exista pacto o acuerdo escrito.\nTurnos de disponibilidad o guardias previamente acordados, conforme a la ley y sin desmejorar derechos mínimos.\nNingún trabajador será sancionado, objeto de represalia o afectado en su evaluación por no atender comunicaciones fuera de la jornada, salvo en los eventos excepcionales descritos y debidamente soportados.\nSUPERCAN promoverá prácticas de comunicación respetuosas del descanso (programar mensajes dentro de horario, evitar reuniones fuera de jornada salvo justificación).\nEl trabajador podrá informar a su jefe inmediato o al responsable designado por SUPERCAN cualquier situación que considere lesiva de su derecho a la desconexión laboral, para análisis y corrección sin represalias.\nSoporte normativo: Ley 2191 de 2022 (definición y garantía del derecho a la desconexión laboral; y su relación con acoso laboral cuando haya inobservancia en ciertos casos)."
+        },
+        {
+          "numero": "151",
+          "titulo": "Vigencia, reformas y derogatorias.",
+          "contenido": "El presente Reglamento Interno de Trabajo entra en vigencia a partir de la fecha de su aprobación interna por parte de SUPERCAN – Clínica Veterinaria (persona natural), y se mantendrá vigente mientras no sea modificado, adicionado o sustituido conforme a la legislación aplicable.\nCualquier reforma, actualización o adición al Reglamento deberá:\nSer adoptada mediante acto interno debidamente documentado.\nRespetar en todo momento los derechos mínimos de los trabajadores y la normativa laboral vigente.\nSer debidamente divulgada a los trabajadores por los medios de publicación y comunicación previstos en este Reglamento.\nCon la entrada en vigencia del presente Reglamento quedan derogados los reglamentos internos anteriores de SUPERCAN que versen sobre las mismas materias, sin perjuicio de la validez de actos y situaciones jurídicas consolidadas durante su vigencia.\nSoporte normativo: CST arts. 119–120 (divulgación/publicación y accesibilidad del Reglamento, con actualización por Ley 2466 de 2025); principios constitucionales laborales (favorabilidad y derechos mínimos)."
+        }
+      ]
+    }
+  ]
+}
